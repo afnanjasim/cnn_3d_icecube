@@ -1,7 +1,7 @@
 #!/bin/bash
 #################
 #SBATCH --nodes=2
-#SBATCH --time=04:00:00
+#SBATCH --time=05:00:00
 #SBATCH --qos=regular
 #SBATCH --job-name=ice_cube_cnn_train
 #SBATCH --output=slurm-%x-%j.out

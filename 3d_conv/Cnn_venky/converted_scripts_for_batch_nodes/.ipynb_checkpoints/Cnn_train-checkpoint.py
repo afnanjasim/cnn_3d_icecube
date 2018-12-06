@@ -46,7 +46,7 @@ train_status,test_status=parg.train_status,parg.test_status
 print(train_status,test_status)
 
 ###Extract data #######
-data_dir='/global/project/projectdirs/dasrepo/vpa/ice_cube/data_for_cnn/extracted_data_v/data/'
+data_dir='/global/project/projectdirs/dasrepo/vpa/ice_cube/data_for_cnn/extracted_data_v/data/data_hesse_cuts/'
 ### Extract regular data
 f1,f2,f3='processed_input_regular_x','processed_input_regular_y','processed_input_regular_wts'
 i1x,i1y,i1wts=f_load_data(data_dir,f1,f2,f3)
@@ -80,8 +80,8 @@ del(i2x,i2y,i2wts)
 ### Train and test model
 # All models in sequence:
 model_save_dir='/global/project/projectdirs/dasrepo/vpa/ice_cube/data_for_cnn/saved_models/'
-#for i in range(1,3):
 for i in range(1,6):
+#for i in range(6,7):
     print(i,'{:%Y-%m-%d %H:%M:%S}'.format(datetime.datetime.now()))
     model_dict={'name':str(i),'description':'-','model':None,'history':None}
     num_epochs=20

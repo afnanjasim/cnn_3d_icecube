@@ -1,0 +1,19 @@
+--start date Tue Dec 4 11:33:03 PST 2018 1543951983
+--hostname  nid02094
+Python 3.6.6 :: Anaconda, Inc.
+/global/homes/v/vpa/.conda/envs/v_py3/bin/python
+2018-12-04 11:33:37.433585: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+OMP: Warning #181: OMP_PROC_BIND: ignored because KMP_AFFINITY has been defined
+Using TensorFlow backend.
+False False
+(136066, 10, 20, 60, 1) (136066,)
+Num samples in regular data 136066
+(752604, 10, 20, 60, 1) (752604,)
+Num samples in reserved data 752604
+Traceback (most recent call last):
+  File "Cnn_train.py", line 77, in <module>
+    i2x,i2y,i2wts=f_shuffle_data(i2x,i2y,i2wts)
+  File "/global/u1/v/vpa/project/jpt_notebooks/ice_cube_nb/3d_conv/Cnn_venky/converted_scripts_for_batch_nodes/modules.py", line 39, in f_shuffle_data
+    inpx=inpx[shuffle_arr]
+MemoryError
+--end date Tue Dec 4 11:35:12 PST 2018 1543952112
