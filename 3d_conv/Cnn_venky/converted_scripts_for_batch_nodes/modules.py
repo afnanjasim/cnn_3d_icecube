@@ -9,17 +9,16 @@ from sklearn.metrics import roc_curve, auc, roc_auc_score
 from models import f_define_model
 
 # Load data from files
-def f_load_data(data_dir,f1,f2,f3):
+def f_load_data(data_dir,f1,f2,f3,mode=False):
     ''' Load extracted data from files. Three files for xdata,ydata,weights.
     arguments: data directory, f1,f2,f3 
     returns : inpx,inpy,weights as arrays
     '''
-
-    inpx=np.load(data_dir+f1+'.npy')
-    inpy=np.load(data_dir+f2+'.npy')
-    wts=np.load(data_dir+f3+'.npy')
+    m='r' if mode else None
+    inpx=np.load(data_dir+f1+'.npy',mmap_mode=m)
+    inpy=np.load(data_dir+f2+'.npy',mmap_mode=m)
+    wts=np.load(data_dir+f3+'.npy',mmap_mode=m)
     print(inpx.shape,inpy.shape)
-    
     
     return inpx,inpy,wts
 
@@ -33,8 +32,9 @@ def f_shuffle_data(inpx,inpy,wts):
     seed=243
     np.random.seed(seed=seed)
 
+    size=inpx.shape[0]
     ## Get shuffled array of indices
-    shuffle_arr=np.arange(inpx.shape[0])
+    shuffle_arr=np.arange(size)
     np.random.shuffle(shuffle_arr)
     inpx=inpx[shuffle_arr]
     inpy=inpy[shuffle_arr]
