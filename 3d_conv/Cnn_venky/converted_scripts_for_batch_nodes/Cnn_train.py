@@ -43,6 +43,7 @@ def parse_args():
     add_arg('--train','-tr',  action='store_false' ,dest='train_status' ,help='Has the model been trained?')
     add_arg('--test', '-ts',  action='store_false' ,dest='test_status'  ,help='Has the model been tested?')
     add_arg('--typeofdata' , choices=['regular','hesse_cut'] ,default='regular' ,dest='type_of_data' ,help='Is the input data hesse cut or regular ?')
+    add_arg('--model_list', '-mdlst', nargs='+', type=int, dest='mod_lst',help=' Enter the list of model numbers to test ', required=True)
 
     return parser.parse_args()
 
@@ -51,15 +52,15 @@ if __name__=='__main__':
     args=parse_args()
     print(args)
     ## Note: --train means models needs to be trained. hence train_status=False
-    train_status,test_status=args.train_status,args.test_status
-    #print(train_status,test_status)
+    train_status,test_status,type_of_data=args.train_status,args.test_status,args.type_of_data
+    model_lst=args.mod_lst
 
     ###Extract data #######
     if type_of_data=='hesse_cut':
         data_dir='/global/project/projectdirs/dasrepo/vpa/ice_cube/data_for_cnn/extracted_data_v/data/data_hesse_cuts/'
     elif type_of_data=='regular':
         data_dir='/global/project/projectdirs/dasrepo/vpa/ice_cube/data_for_cnn/extracted_data_v/data/data_regular/'
-
+    
     print("Extracting files from",data_dir)
     
     ### Extract regular data
@@ -85,18 +86,17 @@ if __name__=='__main__':
     
     test_x,test_y,test_wts=i2x[:split_size],i2y[:split_size],i2wts[:split_size]
     print("Test data size",test_y.shape[0])
-    #test_x,test_y,test_wts=i2x,i2y,i2wts
     del(i2x,i2y,i2wts)
 
     ### Train and test model
     # All models in sequence:
     model_save_dir='/global/project/projectdirs/dasrepo/vpa/ice_cube/data_for_cnn/saved_models/'
-    #for i in range(1,6):
-    for i in range(6,11):
-        print(i,'{:%Y-%m-%d %H:%M:%S}'.format(datetime.datetime.now()))
+    
+    for i in model_lst:
+        print('Model',i,'{:%Y-%m-%d %H:%M:%S}'.format(datetime.datetime.now()))
         model_dict={'name':str(i),'description':'-','model':None,'history':None}
         num_epochs=20
-    model_dict1=f_perform_fit(train_x,train_y,train_wts,test_x,test_y,test_wts,model_dict,model_save_dir,num_epochs,train_status,test_status)
+        model_dict1=f_perform_fit(train_x,train_y,train_wts,test_x,test_y,test_wts,model_dict,model_save_dir,num_epochs,train_status,test_status)
 
 
 

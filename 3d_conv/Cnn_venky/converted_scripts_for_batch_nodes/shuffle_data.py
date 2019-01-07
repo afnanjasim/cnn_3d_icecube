@@ -7,8 +7,6 @@
 import numpy as np
 
 
-
-
 # Load data from files
 def f_load_data(data_dir,f1,f2,f3,mode=False):
     ''' Load extracted data from files. Three files for xdata,ydata,weights.
@@ -46,7 +44,7 @@ def f_shuffle_data(inpx,inpy,wts):
 
 if __name__=='__main__':
 
-    data_dir='/global/project/projectdirs/dasrepo/vpa/ice_cube/data_for_cnn/extracted_data_v/data/data_regular/'
+    data_dir='/global/project/projectdirs/dasrepo/vpa/ice_cube/data_for_cnn/extracted_data_v/data/data_hesse_cuts_dec_25/'
     save_location=data_dir
     
     ### Extract regular data

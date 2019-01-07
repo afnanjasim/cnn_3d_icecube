@@ -1,7 +1,7 @@
 #!/bin/bash
 #################
-#SBATCH --nodes=2
-#SBATCH --time=05:00:00
+#SBATCH --nodes=1
+#SBATCH --time=04:00:00
 #SBATCH --qos=regular
 #SBATCH --job-name=ice_cube_cnn_train
 #SBATCH --output=slurm-%x-%j.out
@@ -17,6 +17,7 @@ python --version
 which python
 export HDF5_USE_FILE_LOCKING=FALSE
 ### Actual script to run
-python Cnn_train.py --test --train
+python Cnn_train.py --test --train --typeofdata $1 --model_list $2
 conda deactivate
 echo "--end date" `date` `date +%s`
+
