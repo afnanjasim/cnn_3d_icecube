@@ -2,7 +2,7 @@
 
 import numpy as np
 import os
-from keras.models import load_model
+from tensorflow.keras.models import load_model
 import pickle
 import matplotlib.pyplot as plt
 from sklearn.metrics import roc_curve, auc, roc_auc_score
@@ -58,11 +58,12 @@ def f_split_data(inpx,inpy,wts,test_fraction):
     
 def f_plot_yinput(inpy,model_dict,title_suffix,save_loc=''):
     # Plot data
-    fig_fname='y-input_model-%s.eps'%(model_dict['name'])
+    fig_fname='y-input_model-%s.pdf'%(model_dict['name'])
     plt.figure()
     plt.plot(inpy[:],linestyle='',marker='*',markersize=1)
     plt.title("Plot of y data after shuffle: %s "%(title_suffix))
     plt.savefig(save_loc+fig_fname)
+    plt.close()
 
     
 def f_format_data(inpx,inpy,wts,shuffle_flag=True,drop_data=True,data_size=1000,test_fraction=0.25):
@@ -106,7 +107,7 @@ def f_train_model(model,inpx,inpy,num_epochs=5):
 def f_plot_learning(history,model_name,save_loc=''):
     ''' Plot learning curves'''
     
-    fig_name='learning_model%s.eps'%(model_name)
+    fig_name='learning_model%s.pdf'%(model_name)
 
     fig=plt.figure()
     # Plot training & validation accuracy values
@@ -126,13 +127,13 @@ def f_plot_learning(history,model_name,save_loc=''):
     plt.legend(loc='best')
 
     plt.savefig(save_loc+fig_name)
-
+    plt.close()
 
 def f_plot_roc_curve(fpr,tpr,model_name,save_loc=''):
     '''
     Module for roc plot and printing AUC
     '''
-    fig_name='roc_curve_model%s.eps'%(model_name)
+    fig_name='roc_curve_model%s.pdf'%(model_name)
     plt.figure()
     plt.scatter(fpr,tpr)
     
@@ -146,6 +147,7 @@ def f_plot_roc_curve(fpr,tpr,model_name,save_loc=''):
     print("AUC: ",auc_val)
     
     plt.savefig(save_loc+fig_name)
+    plt.close()
 
     
 
@@ -174,8 +176,13 @@ def f_test_model(xdata,ydata,wts,model,model_name,model_save_dir,test_status=Fal
         y_pred=np.loadtxt(test_file_name)
         ydata=np.loadtxt(test_y_file_name)
         wts=np.loadtxt(test_weights_file_name)
-        
+    
+    assert(ydata.shape[0]==y_pred.shape[0]),"Data %s and prediction arrays %s are not of the same size"%(test_y.shape,y_pred.shape)
+       
+    # For resnet, the output has 2 columns, you pick the second one.
+    if y_pred.shape[1]==2: y_pred=y_pred[:,1]
 #     print(y_pred)
+
     fpr,tpr,threshold=roc_curve(ydata,y_pred,sample_weight=wts)
     print(fpr.shape,tpr.shape,threshold.shape)
     # Plot roc curve

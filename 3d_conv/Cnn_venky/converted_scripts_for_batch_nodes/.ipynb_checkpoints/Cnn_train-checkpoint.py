@@ -11,12 +11,12 @@ import argparse
 import datetime
 
 ## M-L modules
-import keras
-from keras import layers, models, optimizers, callbacks  # or tensorflow.keras as keras
+import tensorflow.keras as keras
+from tensorflow.keras import layers, models, optimizers, callbacks  # or tensorflow.keras as keras
 import tensorflow as tf
 from sklearn.utils import shuffle
 from sklearn.metrics import roc_curve, auc, roc_auc_score
-from keras.models import load_model
+from tensorflow.keras.models import load_model
 
 ## special imports for setting keras and tensorflow variables.
 sys.path.insert(0,'/global/u1/v/vpa/standard_scripts/')
@@ -32,7 +32,7 @@ from modules import *
 #Steps: Extract data, process data, train data using model, plot learning, test data with model, plot roc curve.
 
 ### Set tensorflow and keras variables
-configure_session(intra_threads=32, inter_threads=2, blocktime=1, affinity='granularity=fine,compact,1,0')
+configure_session(intra_threads=2, inter_threads=2, blocktime=1, affinity='granularity=fine,compact,1,0')
 
 ### Parsing arguments
 def parse_args():
@@ -65,12 +65,12 @@ if __name__=='__main__':
     
     ### Extract regular data
     f1,f2,f3='shuffled_input_regular_x','shuffled_input_regular_y','shuffled_input_regular_wts'
-    i1x,i1y,i1wts=f_load_data(data_dir,f1,f2,f3)
+    i1x,i1y,i1wts=f_load_data(data_dir,f1,f2,f3,mode=True)
     print("Num samples in regular data",i1y.shape[0])
 
     ### Extract reserved data
     f1,f2,f3='shuffled_input_reserved_x','shuffled_input_reserved_y','shuffled_input_reserved_wts'
-    i2x,i2y,i2wts=f_load_data(data_dir,f1,f2,f3)
+    i2x,i2y,i2wts=f_load_data(data_dir,f1,f2,f3,mode=True)
     print("Num samples in reserved data",i2y.shape[0])
     
     ###Format data #######

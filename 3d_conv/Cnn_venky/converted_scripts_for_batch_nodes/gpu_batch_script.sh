@@ -12,11 +12,12 @@
 
 echo "--start date" `date` `date +%s`
 echo '--hostname ' $HOSTNAME
-conda activate v_py3
-python --version
-which python
 export HDF5_USE_FILE_LOCKING=FALSE
+# Limit to one GPU
+export CUDA_DEVICE_ORDER=PCI_BUS_ID
+export CUDA_VISIBLE_DEVICES=2
 ### Actual script to run
-python Cnn_train.py --test --train --typeofdata $1 --model_list $2
-conda deactivate
+echo $2
+python3 Cnn_train.py --test --train --typeofdata $1 --model_list $2 --epochs 20
+#python3 Cnn_train.py --test --typeofdata $1 --model_list $2
 echo "--end date" `date` `date +%s`

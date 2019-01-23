@@ -1,7 +1,7 @@
 ## modify this script to change the model.
 ### Add models with a new index.
 
-from keras import layers, models, optimizers, callbacks  # or tensorflow.keras as keras
+from tensorflow.keras import layers, models, optimizers, callbacks  # or tensorflow.keras as keras
 
 ### Defining all the models tried in the study
 def f_define_model(inpx,name):
@@ -193,7 +193,7 @@ def f_define_model(inpx,name):
         # Ouptut layer
         outputs = layers.Dense(1, activation='sigmoid')(h)   
         
-    
+ 
     ############################################
     ####### Compile model ######################
     ############################################

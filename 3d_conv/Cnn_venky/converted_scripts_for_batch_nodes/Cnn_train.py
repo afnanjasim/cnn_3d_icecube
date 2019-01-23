@@ -11,15 +11,15 @@ import argparse
 import datetime
 
 ## M-L modules
-import keras
-from keras import layers, models, optimizers, callbacks  # or tensorflow.keras as keras
+import tensorflow.keras
+from tensorflow.keras import layers, models, optimizers, callbacks  # or tensorflow.keras as keras
 import tensorflow as tf
 from sklearn.utils import shuffle
 from sklearn.metrics import roc_curve, auc, roc_auc_score
-from keras.models import load_model
+from tensorflow.keras.models import load_model
 
 ## special imports for setting keras and tensorflow variables.
-sys.path.insert(0,'/global/u1/v/vpa/standard_scripts/')
+sys.path.insert(0,'/home/vpa/std_scripts/')
 from keras_tf_parallel_variables import configure_session
 
 ## modules from other files
@@ -33,6 +33,9 @@ from modules import *
 
 ### Set tensorflow and keras variables
 configure_session(intra_threads=32, inter_threads=2, blocktime=1, affinity='granularity=fine,compact,1,0')
+# Limit GPU usage to just one.
+#export CUDA_DEVICE_ORDER=PCI_BUS_ID
+#export CUDA_VISIBLE_DEVICES=1
 
 ### Parsing arguments
 def parse_args():
@@ -44,6 +47,7 @@ def parse_args():
     add_arg('--test', '-ts',  action='store_false' ,dest='test_status'  ,help='Has the model been tested?')
     add_arg('--typeofdata' , choices=['regular','hesse_cut'] ,default='regular' ,dest='type_of_data' ,help='Is the input data hesse cut or regular ?')
     add_arg('--model_list', '-mdlst', nargs='+', type=int, dest='mod_lst',help=' Enter the list of model numbers to test ', required=True)
+    add_arg('--epochs', '-e', type=int, default=10,help='Number of epochs')
 
     return parser.parse_args()
 
@@ -52,25 +56,25 @@ if __name__=='__main__':
     args=parse_args()
     print(args)
     ## Note: --train means models needs to be trained. hence train_status=False
-    train_status,test_status,type_of_data=args.train_status,args.test_status,args.type_of_data
+    train_status,test_status,type_of_data,num_epochs=args.train_status,args.test_status,args.type_of_data,args.epochs
     model_lst=args.mod_lst
 
     ###Extract data #######
     if type_of_data=='hesse_cut':
-        data_dir='/global/project/projectdirs/dasrepo/vpa/ice_cube/data_for_cnn/extracted_data_v/data/data_hesse_cuts/'
+        data_dir='../data/data_hesse_cuts/'
     elif type_of_data=='regular':
-        data_dir='/global/project/projectdirs/dasrepo/vpa/ice_cube/data_for_cnn/extracted_data_v/data/data_regular/'
+        data_dir='../data/data_regular/'
     
     print("Extracting files from",data_dir)
     
     ### Extract regular data
     f1,f2,f3='shuffled_input_regular_x','shuffled_input_regular_y','shuffled_input_regular_wts'
-    i1x,i1y,i1wts=f_load_data(data_dir,f1,f2,f3)
+    i1x,i1y,i1wts=f_load_data(data_dir,f1,f2,f3,mode=True)
     print("Num samples in regular data",i1y.shape[0])
 
     ### Extract reserved data
     f1,f2,f3='shuffled_input_reserved_x','shuffled_input_reserved_y','shuffled_input_reserved_wts'
-    i2x,i2y,i2wts=f_load_data(data_dir,f1,f2,f3)
+    i2x,i2y,i2wts=f_load_data(data_dir,f1,f2,f3,mode=True)
     print("Num samples in reserved data",i2y.shape[0])
     
     ###Format data #######
@@ -90,12 +94,11 @@ if __name__=='__main__':
 
     ### Train and test model
     # All models in sequence:
-    model_save_dir='/global/project/projectdirs/dasrepo/vpa/ice_cube/data_for_cnn/saved_models/'
+    model_save_dir='/home/vpa/ice_cube/3d_cnn/results_data/saved_models/'
     
     for i in model_lst:
         print('Model',i,'{:%Y-%m-%d %H:%M:%S}'.format(datetime.datetime.now()))
         model_dict={'name':str(i),'description':'-','model':None,'history':None}
-        num_epochs=20
         model_dict1=f_perform_fit(train_x,train_y,train_wts,test_x,test_y,test_wts,model_dict,model_save_dir,num_epochs,train_status,test_status)
 
 
