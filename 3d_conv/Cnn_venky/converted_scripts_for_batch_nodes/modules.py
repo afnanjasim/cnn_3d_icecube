@@ -103,53 +103,58 @@ def f_train_model(model,inpx,inpy,num_epochs=5):
     
     return history.history
 
-
-def f_plot_learning(history,model_name,save_loc=''):
-    ''' Plot learning curves'''
-    
-    fig_name='learning_model%s.pdf'%(model_name)
-
+def f_plot_learning(history):
+    '''Plot learning curves : Accuracy and Validation'''
     fig=plt.figure()
     # Plot training & validation accuracy values
     fig.add_subplot(2,1,1)
-    plt.plot(history['acc'],label='Train')
-    plt.plot(history['val_acc'],label='Validation')
+    xlim=len(history['acc'])
+    
+    plt.plot(history['acc'],label='Train',marker='o')
+    plt.plot(history['val_acc'],label='Validation',marker='*')
 #     plt.title('Model accuracy')
     plt.ylabel('Accuracy')
-
+    plt.xticks(np.arange(0,xlim,2))
+    
     # Plot loss values
     fig.add_subplot(2,1,2)
-    plt.plot(history['loss'],label='Train')
-    plt.plot(history['val_loss'],label='Validation')
+    plt.plot(history['loss'],label='Train',marker='o')
+    plt.plot(history['val_loss'],label='Validation',marker='*')
 #     plt.title('Model loss')
     plt.ylabel('Loss')
     plt.xlabel('Epoch')
+    plt.xticks(np.arange(0,xlim,2))
+
     plt.legend(loc='best')
 
     plt.savefig(save_loc+fig_name)
     plt.close()
 
-def f_plot_roc_curve(fpr,tpr,model_name,save_loc=''):
+
+def f_plot_roc_curve(fpr,tpr):
     '''
     Module for roc plot and printing AUC
     '''
-    fig_name='roc_curve_model%s.pdf'%(model_name)
     plt.figure()
+    # plt.plot(fpr,tpr)
     plt.scatter(fpr,tpr)
-    
     plt.semilogx(fpr, tpr)
-#     Zooms
+  # Zooms
     plt.xlim([10**-7,1.0])
     plt.ylim([0,1.0])
-    
+    # y=x line for comparison
+    x=np.linspace(0,1,num=500)
+    plt.plot(x,x)
+#     plt.xscale('log')
+#     plt.xlim(1e-10,1e-5)
+    plt.show()
+
     # AUC 
     auc_val = auc(fpr, tpr)
     print("AUC: ",auc_val)
     
     plt.savefig(save_loc+fig_name)
     plt.close()
-
-    
 
 def f_test_model(xdata,ydata,wts,model,model_name,model_save_dir,test_status=False):
     '''
@@ -179,9 +184,9 @@ def f_test_model(xdata,ydata,wts,model,model_name,model_save_dir,test_status=Fal
     
     assert(ydata.shape[0]==y_pred.shape[0]),"Data %s and prediction arrays %s are not of the same size"%(test_y.shape,y_pred.shape)
        
-    # For resnet, the output has 2 columns, you pick the second one.
-    if y_pred.shape[1]==2: y_pred=y_pred[:,1]
-#     print(y_pred)
+    ##Condition for the case when the prediction is a 2column array 
+    if len(y_pred.shape)==2 : y_pred=y_pred[:,1]
+    #print(y_pred[:10])
 
     fpr,tpr,threshold=roc_curve(ydata,y_pred,sample_weight=wts)
     print(fpr.shape,tpr.shape,threshold.shape)

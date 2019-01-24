@@ -279,12 +279,16 @@ def f_define_model(inpx,name):
     ####### Compile model ######################
     ############################################
     
-    if name!='15':  model = models.Model(inputs, outputs)
+    if name!='15': ## For non resnet models 
+        model = models.Model(inputs, outputs)
+        #### change loss function for non-resnet models since 'sparse_categorical_crossentropy' throws up an error.
+        opt,loss_fn=optimizers.Adam(lr=0.001),'binary_crossentropy'
+    else :
+        opt,loss_fn=optimizers.Adam(lr=0.01),'sparse_categorical_crossentropy'
 
-    model.compile(optimizer=optimizers.Adam(lr=0.001), loss='sparse_categorical_crossentropy', metrics=['accuracy'])
+    model.compile(optimizer=opt, loss=loss_fn, metrics=['accuracy'])
     #print("model %s"%name)
     #model.summary()
-
 
     return model
 

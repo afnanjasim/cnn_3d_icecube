@@ -2,7 +2,7 @@
 
 import numpy as np
 import os
-from keras.models import load_model
+from tensorflow.keras.models import load_model
 import pickle
 import matplotlib.pyplot as plt
 from sklearn.metrics import roc_curve, auc, roc_auc_score
@@ -58,11 +58,12 @@ def f_split_data(inpx,inpy,wts,test_fraction):
     
 def f_plot_yinput(inpy,model_dict,title_suffix,save_loc=''):
     # Plot data
-    fig_fname='y-input_model-%s.eps'%(model_dict['name'])
+    fig_fname='y-input_model-%s.pdf'%(model_dict['name'])
     plt.figure()
     plt.plot(inpy[:],linestyle='',marker='*',markersize=1)
     plt.title("Plot of y data after shuffle: %s "%(title_suffix))
     plt.savefig(save_loc+fig_fname)
+    plt.close()
 
     
 def f_format_data(inpx,inpy,wts,shuffle_flag=True,drop_data=True,data_size=1000,test_fraction=0.25):
@@ -102,52 +103,52 @@ def f_train_model(model,inpx,inpy,num_epochs=5):
     
     return history.history
 
-
-def f_plot_learning(history,model_name,save_loc=''):
-    ''' Plot learning curves'''
-    
-    fig_name='learning_model%s.eps'%(model_name)
-
+def f_plot_learning(history):
+    '''Plot learning curves : Accuracy and Validation'''
     fig=plt.figure()
     # Plot training & validation accuracy values
     fig.add_subplot(2,1,1)
-    plt.plot(history['acc'],label='Train')
-    plt.plot(history['val_acc'],label='Validation')
+    xlim=len(history['acc'])
+    
+    plt.plot(history['acc'],label='Train',marker='o')
+    plt.plot(history['val_acc'],label='Validation',marker='*')
 #     plt.title('Model accuracy')
     plt.ylabel('Accuracy')
-
+    plt.xticks(np.arange(0,xlim,2))
+    
     # Plot loss values
     fig.add_subplot(2,1,2)
-    plt.plot(history['loss'],label='Train')
-    plt.plot(history['val_loss'],label='Validation')
+    plt.plot(history['loss'],label='Train',marker='o')
+    plt.plot(history['val_loss'],label='Validation',marker='*')
 #     plt.title('Model loss')
     plt.ylabel('Loss')
     plt.xlabel('Epoch')
+    plt.xticks(np.arange(0,xlim,2))
+
     plt.legend(loc='best')
 
-    plt.savefig(save_loc+fig_name)
 
-
-def f_plot_roc_curve(fpr,tpr,model_name,save_loc=''):
+def f_plot_roc_curve(fpr,tpr):
     '''
     Module for roc plot and printing AUC
     '''
-    fig_name='roc_curve_model%s.eps'%(model_name)
     plt.figure()
+    # plt.plot(fpr,tpr)
     plt.scatter(fpr,tpr)
-    
     plt.semilogx(fpr, tpr)
-#     Zooms
+  # Zooms
     plt.xlim([10**-7,1.0])
     plt.ylim([0,1.0])
-    
+    # y=x line for comparison
+    x=np.linspace(0,1,num=500)
+    plt.plot(x,x)
+#     plt.xscale('log')
+#     plt.xlim(1e-10,1e-5)
+    plt.show()
+
     # AUC 
     auc_val = auc(fpr, tpr)
     print("AUC: ",auc_val)
-    
-    plt.savefig(save_loc+fig_name)
-
-    
 
 def f_test_model(xdata,ydata,wts,model,model_name,model_save_dir,test_status=False):
     '''
@@ -174,8 +175,13 @@ def f_test_model(xdata,ydata,wts,model,model_name,model_save_dir,test_status=Fal
         y_pred=np.loadtxt(test_file_name)
         ydata=np.loadtxt(test_y_file_name)
         wts=np.loadtxt(test_weights_file_name)
-        
+    
+    assert(ydata.shape[0]==y_pred.shape[0]),"Data %s and prediction arrays %s are not of the same size"%(test_y.shape,y_pred.shape)
+       
+    # Condition for the case when the prediction is a 2column array 
+    if len(y_pred.shape)==2: y_pred=y_pred[:,1]
 #     print(y_pred)
+
     fpr,tpr,threshold=roc_curve(ydata,y_pred,sample_weight=wts)
     print(fpr.shape,tpr.shape,threshold.shape)
     # Plot roc curve
