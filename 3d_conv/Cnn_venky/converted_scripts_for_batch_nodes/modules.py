@@ -127,6 +127,7 @@ def f_plot_learning(history,model_name,save_loc):
 
     plt.legend(loc='best')
 
+    fig_name='learning_model%s.pdf'%(model_name)
     plt.savefig(save_loc+fig_name)
     plt.close()
 
@@ -152,7 +153,7 @@ def f_plot_roc_curve(fpr,tpr,model_name,save_loc):
     # AUC 
     auc_val = auc(fpr, tpr)
     print("AUC: ",auc_val)
-    
+    fig_name='roc_curve_model%s.pdf'%(model_name) 
     plt.savefig(save_loc+fig_name)
     plt.close()
 
@@ -185,7 +186,9 @@ def f_test_model(xdata,ydata,wts,model,model_name,model_save_dir,test_status=Fal
     assert(ydata.shape[0]==y_pred.shape[0]),"Data %s and prediction arrays %s are not of the same size"%(test_y.shape,y_pred.shape)
        
     ##Condition for the case when the prediction is a 2column array 
-    if len(y_pred.shape)==2 : y_pred=y_pred[:,1]
+    #print(y_pred.shape,len(y_pred.shape))
+    ## This complicated condition is needed since the array has shape (n,1) when created, but share (n,) when read from file.
+    if (len(y_pred.shape)==2 and y_pred.shape[1]==2) : y_pred=y_pred[:,1]
     #print(y_pred[:10])
 
     fpr,tpr,threshold=roc_curve(ydata,y_pred,sample_weight=wts)

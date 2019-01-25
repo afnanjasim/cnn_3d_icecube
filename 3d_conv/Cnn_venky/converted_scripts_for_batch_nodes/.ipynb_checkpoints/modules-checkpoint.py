@@ -105,6 +105,7 @@ def f_train_model(model,inpx,inpy,num_epochs=5):
 
 def f_plot_learning(history,model_name,save_loc):
     '''Plot learning curves : Accuracy and Validation'''
+
     fig=plt.figure()
     # Plot training & validation accuracy values
     fig.add_subplot(2,1,1)
@@ -127,6 +128,7 @@ def f_plot_learning(history,model_name,save_loc):
 
     plt.legend(loc='best')
 
+    fig_name='learning_model%s.pdf'%(model_name)
     plt.savefig(save_loc+fig_name)
     plt.close()
 
@@ -153,6 +155,7 @@ def f_plot_roc_curve(fpr,tpr,model_name,save_loc):
     auc_val = auc(fpr, tpr)
     print("AUC: ",auc_val)
     
+    fig_name='roc_curve_model%s.pdf'%(model_name)
     plt.savefig(save_loc+fig_name)
     plt.close()
 
