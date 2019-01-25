@@ -103,7 +103,7 @@ def f_train_model(model,inpx,inpy,num_epochs=5):
     
     return history.history
 
-def f_plot_learning(history):
+def f_plot_learning(history,model_name,save_loc):
     '''Plot learning curves : Accuracy and Validation'''
     fig=plt.figure()
     # Plot training & validation accuracy values
@@ -131,7 +131,7 @@ def f_plot_learning(history):
     plt.close()
 
 
-def f_plot_roc_curve(fpr,tpr):
+def f_plot_roc_curve(fpr,tpr,model_name,save_loc):
     '''
     Module for roc plot and printing AUC
     '''

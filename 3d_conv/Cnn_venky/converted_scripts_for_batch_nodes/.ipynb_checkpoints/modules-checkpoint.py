@@ -103,7 +103,7 @@ def f_train_model(model,inpx,inpy,num_epochs=5):
     
     return history.history
 
-def f_plot_learning(history):
+def f_plot_learning(history,model_name,save_loc):
     '''Plot learning curves : Accuracy and Validation'''
     fig=plt.figure()
     # Plot training & validation accuracy values
@@ -127,8 +127,11 @@ def f_plot_learning(history):
 
     plt.legend(loc='best')
 
+    plt.savefig(save_loc+fig_name)
+    plt.close()
 
-def f_plot_roc_curve(fpr,tpr):
+
+def f_plot_roc_curve(fpr,tpr,model_name,save_loc):
     '''
     Module for roc plot and printing AUC
     '''
@@ -149,6 +152,9 @@ def f_plot_roc_curve(fpr,tpr):
     # AUC 
     auc_val = auc(fpr, tpr)
     print("AUC: ",auc_val)
+    
+    plt.savefig(save_loc+fig_name)
+    plt.close()
 
 def f_test_model(xdata,ydata,wts,model,model_name,model_save_dir,test_status=False):
     '''
@@ -178,9 +184,9 @@ def f_test_model(xdata,ydata,wts,model,model_name,model_save_dir,test_status=Fal
     
     assert(ydata.shape[0]==y_pred.shape[0]),"Data %s and prediction arrays %s are not of the same size"%(test_y.shape,y_pred.shape)
        
-    # Condition for the case when the prediction is a 2column array 
-    if len(y_pred.shape)==2: y_pred=y_pred[:,1]
-#     print(y_pred)
+    ##Condition for the case when the prediction is a 2column array 
+    if len(y_pred.shape)==2 : y_pred=y_pred[:,1]
+    #print(y_pred[:10])
 
     fpr,tpr,threshold=roc_curve(ydata,y_pred,sample_weight=wts)
     print(fpr.shape,tpr.shape,threshold.shape)
