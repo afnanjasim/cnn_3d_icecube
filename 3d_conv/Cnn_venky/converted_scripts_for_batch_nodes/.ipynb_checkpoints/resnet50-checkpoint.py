@@ -84,8 +84,8 @@ def conv_block(input_tensor, kernel_size, filters, stage, block, strides=(2, 2, 
 
 
 #### The main Resnet function that is called in the model.py file ###
-def ResNet18(img_input, classes=2):
-    """Instantiates the ResNet18 architecture.
+def ResNet50(img_input, classes=2):
+    """Instantiates the ResNet50 architecture.
     Optionally loads weights pre-trained
     on ImageNet. Note that when using TensorFlow,
     for best performance you should set
@@ -139,15 +139,23 @@ def ResNet18(img_input, classes=2):
 
     x = conv_block(x, 3, [64, 64, 256], stage=2, block='a', strides=(1, 1, 1))
     x = identity_block(x, 3, [64, 64, 256], stage=2, block='b')
+    x = identity_block(x, 3, [64, 64, 256], stage=2, block='c')
 
     x = conv_block(x, 3, [128, 128, 512], stage=3, block='a', strides=(2, 2, 2))
     x = identity_block(x, 3, [128, 128, 512], stage=3, block='b')
+    x = identity_block(x, 3, [128, 128, 512], stage=3, block='c')
+    x = identity_block(x, 3, [128, 128, 512], stage=3, block='d')
 
     x = conv_block(x, 3, [256, 256, 1024], stage=4, block='a', strides=(2, 2, 2))
     x = identity_block(x, 3, [256, 256, 1024], stage=4, block='b')
+    x = identity_block(x, 3, [256, 256, 1024], stage=4, block='c')
+    x = identity_block(x, 3, [256, 256, 1024], stage=4, block='d')
+    x = identity_block(x, 3, [256, 256, 1024], stage=4, block='e')
+    x = identity_block(x, 3, [256, 256, 1024], stage=4, block='f')
 
     x = conv_block(x, 3, [512, 512, 2048], stage=5, block='a', strides=(2, 2, 2))
     x = identity_block(x, 3, [512, 512, 2048], stage=5, block='b')
+    x = identity_block(x, 3, [512, 512, 2048], stage=5, block='c')
 
     x = AveragePooling3D((1, 1, 1), name='avg_pool')(x)
 
@@ -161,3 +169,4 @@ def ResNet18(img_input, classes=2):
 
     return model
 
+#model.compile(loss="sparse_categorical_crossentropy",optimizer=opt,metrics=["acc"])

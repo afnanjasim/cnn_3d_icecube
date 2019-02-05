@@ -7,6 +7,8 @@ import pickle
 import matplotlib.pyplot as plt
 from sklearn.metrics import roc_curve, auc, roc_auc_score
 from models import f_define_model
+from tensorflow.keras import callbacks
+
 
 # Load data from files
 def f_load_data(data_dir,f1,f2,f3,mode=False):
@@ -91,10 +93,11 @@ def f_train_model(model,inpx,inpy,num_epochs=5):
     cv_fraction=0.33 # Fraction of data for cross validation
     
     history=model.fit(x=inpx, y=inpy,
-                    batch_size=32,
+                    batch_size=64,
                     epochs=num_epochs,
                     verbose=1,
 #                     callbacks = [callbacks.ModelCheckpoint('./rpv_weights.h5')],
+                    callbacks = [callbacks.EarlyStopping(monitor='val_loss', min_delta=0.0002,patience=4, verbose=1), callbacks.ModelCheckpoint('.mdl_weights.h5', save_best_only=True, monitor='val_loss', mode='min') ],
                     validation_split=cv_fraction,
                     shuffle=True
                 )

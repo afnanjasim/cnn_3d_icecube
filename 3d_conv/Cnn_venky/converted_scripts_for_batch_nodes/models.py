@@ -7,6 +7,7 @@ import tensorflow.keras.backend as K
 
 ### Import the modules for resnet50
 from resnet50 import *
+from resnet18 import *
 
 ### Defining all the models tried in the study
 def f_define_model(inpx,name):
@@ -273,19 +274,42 @@ def f_define_model(inpx,name):
     elif name=='15': # Resnet 50 
         #from resnet50 import *
         model = ResNet50(img_input=inputs)
+        learn_rate=0.0005
+
+    elif name=='16': # Resnet 50 
+        model = ResNet50(img_input=inputs)
+        learn_rate=0.00001
+
+    elif name=='17': # Resnet 50 
+        model = ResNet50(img_input=inputs)
+        learn_rate=0.000005
+
+    elif name=='18': # Resnet 18 
+        model = ResNet18(img_input=inputs)
+        learn_rate=0.0005
+
+    elif name=='19': # Resnet 18 
+        model = ResNet18(img_input=inputs)
+        learn_rate=0.00001
+
+    elif name=='20': # Resnet 18 
+        model = ResNet18(img_input=inputs)
+        learn_rate=0.000005
 
     ## Add more models above
     ############################################
     ####### Compile model ######################
     ############################################
-    
-    if name!='15': ## For non resnet models 
-        model = models.Model(inputs, outputs)
-        #### change loss function for non-resnet models since 'sparse_categorical_crossentropy' throws up an error.
-        opt,loss_fn=optimizers.Adam(lr=0.001),'binary_crossentropy'
-    else :
-        opt,loss_fn=optimizers.Adam(lr=0.01),'sparse_categorical_crossentropy'
 
+    if name in ['15','16','17','18','19','20'] :
+        opt,loss_fn=optimizers.Adam(lr=learn_rate),'sparse_categorical_crossentropy'
+
+    else : ## For non resnet models 
+        model = models.Model(inputs, outputs)
+        learn_rate=0.0005
+        #### change loss function for non-resnet models since 'sparse_categorical_crossentropy' throws up an error.
+        opt,loss_fn=optimizers.Adam(lr=learn_rate),'binary_crossentropy'
+    
     model.compile(optimizer=opt, loss=loss_fn, metrics=['accuracy'])
     #print("model %s"%name)
     #model.summary()
