@@ -266,8 +266,8 @@ def f_extract_data(data_folder,save_location,mode='normal',cut=None):
 
 
 if __name__=='__main__':
-    data_cut='hese'
-#     data_cut=None
+    #data_cut='hese'
+    data_cut=None
     print("Data cut",data_cut)
     
     save_data_dir='/global/project/projectdirs/dasrepo/vpa/ice_cube/data_for_cnn/extracted_data_v/data/temp_data/'
@@ -289,7 +289,7 @@ if __name__=='__main__':
 # In[1]:
 
 
-get_ipython().system(' jupyter nbconvert --to script 0_extract_data.ipynb')
+#get_ipython().system(' jupyter nbconvert --to script 0_extract_data.ipynb')
 
 
 # ## Notes:
