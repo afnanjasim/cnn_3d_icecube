@@ -87,7 +87,8 @@ if __name__=='__main__':
     # Using only part of test data
     res_size=i2y.shape[0]
     split_size=int(res_size/2)
-    
+    split_size=int(res_size)
+
     test_x,test_y,test_wts=i2x[:split_size],i2y[:split_size],i2wts[:split_size]
     print("Test data size",test_y.shape[0])
     del(i2x,i2y,i2wts)

@@ -18,6 +18,6 @@ export CUDA_DEVICE_ORDER=PCI_BUS_ID
 export CUDA_VISIBLE_DEVICES=1
 ### Actual script to run
 echo $2
-python3 Cnn_train.py --test --train --typeofdata $1 --model_list $2 --epochs 100
+python3 Cnn_train.py --test --typeofdata $1 --model_list $2 --epochs 100
 #python3 Cnn_train.py --typeofdata $1 --model_list $2
 echo "--end date" `date` `date +%s`

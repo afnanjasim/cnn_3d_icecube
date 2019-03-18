@@ -1,0 +1,1717 @@
+Data cut hese
+Type of data:	 regular
+Sizes of signal and background lists:  11359 8616
+Type:  sig
+Number of blocks 114
+block number:  0 Start-End 0 100   time taken in seconds:  17.329485654830933
+block number:  1 Start-End 100 200   time taken in seconds:  17.10218071937561
+block number:  2 Start-End 200 300   time taken in seconds:  16.590928077697754
+block number:  3 Start-End 300 400   time taken in seconds:  16.213465690612793
+block number:  4 Start-End 400 500   time taken in seconds:  16.067995071411133
+block number:  5 Start-End 500 600   time taken in seconds:  16.59904956817627
+block number:  6 Start-End 600 700   time taken in seconds:  17.587135314941406
+block number:  7 Start-End 700 800   time taken in seconds:  17.487333297729492
+block number:  8 Start-End 800 900   time taken in seconds:  15.918084144592285
+block number:  9 Start-End 900 1000   time taken in seconds:  15.74891448020935
+block number:  10 Start-End 1000 1100   time taken in seconds:  17.17505168914795
+block number:  11 Start-End 1100 1200   time taken in seconds:  16.462770223617554
+block number:  12 Start-End 1200 1300   time taken in seconds:  17.58200454711914
+block number:  13 Start-End 1300 1400   time taken in seconds:  14.766441345214844
+block number:  14 Start-End 1400 1500   time taken in seconds:  17.952176809310913
+block number:  15 Start-End 1500 1600   time taken in seconds:  15.723304033279419
+block number:  16 Start-End 1600 1700   time taken in seconds:  15.948856592178345
+block number:  17 Start-End 1700 1800   time taken in seconds:  15.297969341278076
+block number:  18 Start-End 1800 1900   time taken in seconds:  16.74433398246765
+block number:  19 Start-End 1900 2000   time taken in seconds:  16.34599471092224
+block number:  20 Start-End 2000 2100   time taken in seconds:  17.600614309310913
+block number:  21 Start-End 2100 2200   time taken in seconds:  15.994728326797485
+block number:  22 Start-End 2200 2300   time taken in seconds:  14.944510698318481
+block number:  23 Start-End 2300 2400   time taken in seconds:  17.94147229194641
+block number:  24 Start-End 2400 2500   time taken in seconds:  15.874167919158936
+block number:  25 Start-End 2500 2600   time taken in seconds:  14.995110750198364
+block number:  26 Start-End 2600 2700   time taken in seconds:  15.21089482307434
+block number:  27 Start-End 2700 2800   time taken in seconds:  16.51106905937195
+block number:  28 Start-End 2800 2900   time taken in seconds:  16.65457034111023
+block number:  29 Start-End 2900 3000   time taken in seconds:  17.329469680786133
+block number:  30 Start-End 3000 3100   time taken in seconds:  14.832162380218506
+block number:  31 Start-End 3100 3200   time taken in seconds:  16.389566898345947
+block number:  32 Start-End 3200 3300   time taken in seconds:  16.092766284942627
+block number:  33 Start-End 3300 3400   time taken in seconds:  15.337876558303833
+block number:  34 Start-End 3400 3500   time taken in seconds:  14.961480140686035
+block number:  35 Start-End 3500 3600   time taken in seconds:  15.15798044204712
+block number:  36 Start-End 3600 3700   time taken in seconds:  16.186994791030884
+block number:  37 Start-End 3700 3800   time taken in seconds:  17.040748357772827
+block number:  38 Start-End 3800 3900   time taken in seconds:  15.477856636047363
+block number:  39 Start-End 3900 4000   time taken in seconds:  16.947445154190063
+block number:  40 Start-End 4000 4100   time taken in seconds:  17.24858570098877
+block number:  41 Start-End 4100 4200   time taken in seconds:  16.94709587097168
+block number:  42 Start-End 4200 4300   time taken in seconds:  15.519785165786743
+block number:  43 Start-End 4300 4400   time taken in seconds:  16.12475347518921
+block number:  44 Start-End 4400 4500   time taken in seconds:  13.601968765258789
+block number:  45 Start-End 4500 4600   time taken in seconds:  17.76562476158142
+block number:  46 Start-End 4600 4700   time taken in seconds:  16.770774841308594
+block number:  47 Start-End 4700 4800   time taken in seconds:  15.147303104400635
+block number:  48 Start-End 4800 4900   time taken in seconds:  16.916167974472046
+block number:  49 Start-End 4900 5000   time taken in seconds:  16.921478271484375
+block number:  50 Start-End 5000 5100   time taken in seconds:  17.91012740135193
+block number:  51 Start-End 5100 5200   time taken in seconds:  14.722732543945312
+block number:  52 Start-End 5200 5300   time taken in seconds:  17.114213943481445
+block number:  53 Start-End 5300 5400   time taken in seconds:  16.486956119537354
+block number:  54 Start-End 5400 5500   time taken in seconds:  14.512340545654297
+block number:  55 Start-End 5500 5600   time taken in seconds:  15.687172412872314
+block number:  56 Start-End 5600 5700   time taken in seconds:  14.43831753730774
+block number:  57 Start-End 5700 5800   time taken in seconds:  16.521223068237305
+block number:  58 Start-End 5800 5900   time taken in seconds:  13.669854640960693
+block number:  59 Start-End 5900 6000   time taken in seconds:  18.144710540771484
+block number:  60 Start-End 6000 6100   time taken in seconds:  15.348514556884766
+block number:  61 Start-End 6100 6200   time taken in seconds:  18.24949860572815
+block number:  62 Start-End 6200 6300   time taken in seconds:  15.943691492080688
+block number:  63 Start-End 6300 6400   time taken in seconds:  16.025349855422974
+block number:  64 Start-End 6400 6500   time taken in seconds:  16.894304037094116
+block number:  65 Start-End 6500 6600   time taken in seconds:  15.697110652923584
+block number:  66 Start-End 6600 6700   time taken in seconds:  16.439495086669922
+block number:  67 Start-End 6700 6800   time taken in seconds:  15.352111339569092
+block number:  68 Start-End 6800 6900   time taken in seconds:  14.549763917922974
+block number:  69 Start-End 6900 7000   time taken in seconds:  15.573108196258545
+block number:  70 Start-End 7000 7100   time taken in seconds:  15.626715898513794
+block number:  71 Start-End 7100 7200   time taken in seconds:  16.72615885734558
+block number:  72 Start-End 7200 7300   time taken in seconds:  15.607080459594727
+block number:  73 Start-End 7300 7400   time taken in seconds:  17.305144548416138
+block number:  74 Start-End 7400 7500   time taken in seconds:  17.390843391418457
+block number:  75 Start-End 7500 7600   time taken in seconds:  14.613937139511108
+block number:  76 Start-End 7600 7700   time taken in seconds:  17.81600594520569
+block number:  77 Start-End 7700 7800   time taken in seconds:  14.202177286148071
+block number:  78 Start-End 7800 7900   time taken in seconds:  15.727181434631348
+block number:  79 Start-End 7900 8000   time taken in seconds:  14.040527820587158
+block number:  80 Start-End 8000 8100   time taken in seconds:  16.1098370552063
+block number:  81 Start-End 8100 8200   time taken in seconds:  14.988404512405396
+block number:  82 Start-End 8200 8300   time taken in seconds:  14.25422739982605
+block number:  83 Start-End 8300 8400   time taken in seconds:  15.448551654815674
+block number:  84 Start-End 8400 8500   time taken in seconds:  14.479966640472412
+block number:  85 Start-End 8500 8600   time taken in seconds:  15.03345251083374
+block number:  86 Start-End 8600 8700   time taken in seconds:  15.007183313369751
+block number:  87 Start-End 8700 8800   time taken in seconds:  15.459458351135254
+block number:  88 Start-End 8800 8900   time taken in seconds:  16.5888831615448
+block number:  89 Start-End 8900 9000   time taken in seconds:  16.41701889038086
+block number:  90 Start-End 9000 9100   time taken in seconds:  15.554534912109375
+block number:  91 Start-End 9100 9200   time taken in seconds:  17.18055748939514
+block number:  92 Start-End 9200 9300   time taken in seconds:  16.05552363395691
+block number:  93 Start-End 9300 9400   time taken in seconds:  14.847678899765015
+block number:  94 Start-End 9400 9500   time taken in seconds:  16.082189083099365
+block number:  95 Start-End 9500 9600   time taken in seconds:  15.771873950958252
+block number:  96 Start-End 9600 9700   time taken in seconds:  15.11467432975769
+block number:  97 Start-End 9700 9800   time taken in seconds:  16.040058851242065
+block number:  98 Start-End 9800 9900   time taken in seconds:  15.621669292449951
+block number:  99 Start-End 9900 10000   time taken in seconds:  14.160841941833496
+block number:  100 Start-End 10000 10100   time taken in seconds:  15.323572874069214
+block number:  101 Start-End 10100 10200   time taken in seconds:  15.630378723144531
+block number:  102 Start-End 10200 10300   time taken in seconds:  15.810997724533081
+block number:  103 Start-End 10300 10400   time taken in seconds:  15.493669986724854
+block number:  104 Start-End 10400 10500   time taken in seconds:  16.063881397247314
+block number:  105 Start-End 10500 10600   time taken in seconds:  15.908663988113403
+block number:  106 Start-End 10600 10700   time taken in seconds:  15.575515747070312
+block number:  107 Start-End 10700 10800   time taken in seconds:  16.060202836990356
+block number:  108 Start-End 10800 10900   time taken in seconds:  16.409444570541382
+block number:  109 Start-End 10900 11000   time taken in seconds:  16.641029834747314
+block number:  110 Start-End 11000 11100   time taken in seconds:  15.988659858703613
+block number:  111 Start-End 11100 11200   time taken in seconds:  15.63904356956482
+block number:  112 Start-End 11200 11300   time taken in seconds:  16.3989040851593
+block number:  113 Start-End 11300 None   time taken in seconds:  9.156414031982422
+Number of samples after sig: 108 
+Type:  bg
+Number of blocks 87
+block number:  0 Start-End 0 100   time taken in seconds:  111.74226713180542
+block number:  1 Start-End 100 200   time taken in seconds:  110.20784425735474
+block number:  2 Start-End 200 300   time taken in seconds:  104.74689602851868
+block number:  3 Start-End 300 400   time taken in seconds:  108.24485373497009
+block number:  4 Start-End 400 500   time taken in seconds:  102.7780749797821
+block number:  5 Start-End 500 600   time taken in seconds:  110.25848817825317
+block number:  6 Start-End 600 700   time taken in seconds:  107.75125861167908
+block number:  7 Start-End 700 800   time taken in seconds:  103.31299161911011
+block number:  8 Start-End 800 900   time taken in seconds:  109.3303370475769
+block number:  9 Start-End 900 1000   time taken in seconds:  104.57835102081299
+block number:  10 Start-End 1000 1100   time taken in seconds:  109.93866920471191
+block number:  11 Start-End 1100 1200   time taken in seconds:  109.58202147483826
+block number:  12 Start-End 1200 1300   time taken in seconds:  113.57681179046631
+block number:  13 Start-End 1300 1400   time taken in seconds:  106.63274121284485
+block number:  14 Start-End 1400 1500   time taken in seconds:  108.14362215995789
+block number:  15 Start-End 1500 1600   time taken in seconds:  104.23467135429382
+block number:  16 Start-End 1600 1700   time taken in seconds:  113.05967092514038
+block number:  17 Start-End 1700 1800   time taken in seconds:  108.22939825057983
+block number:  18 Start-End 1800 1900   time taken in seconds:  103.88344597816467
+block number:  19 Start-End 1900 2000   time taken in seconds:  104.98431062698364
+block number:  20 Start-End 2000 2100   time taken in seconds:  101.0270447731018
+block number:  21 Start-End 2100 2200   time taken in seconds:  100.51783871650696
+block number:  22 Start-End 2200 2300   time taken in seconds:  106.14150524139404
+block number:  23 Start-End 2300 2400   time taken in seconds:  106.13126826286316
+block number:  24 Start-End 2400 2500   time taken in seconds:  102.69154286384583
+block number:  25 Start-End 2500 2600   time taken in seconds:  103.7085325717926
+block number:  26 Start-End 2600 2700   time taken in seconds:  107.70761322975159
+block number:  27 Start-End 2700 2800   time taken in seconds:  107.21939373016357
+block number:  28 Start-End 2800 2900   time taken in seconds:  106.79609656333923
+block number:  29 Start-End 2900 3000   time taken in seconds:  107.29721879959106
+block number:  30 Start-End 3000 3100   time taken in seconds:  102.62627458572388
+block number:  31 Start-End 3100 3200   time taken in seconds:  107.47341823577881
+block number:  32 Start-End 3200 3300   time taken in seconds:  110.31616640090942
+block number:  33 Start-End 3300 3400   time taken in seconds:  105.53867959976196
+block number:  34 Start-End 3400 3500   time taken in seconds:  105.98777675628662
+block number:  35 Start-End 3500 3600   time taken in seconds:  109.48942828178406
+block number:  36 Start-End 3600 3700   time taken in seconds:  112.0976779460907
+block number:  37 Start-End 3700 3800   time taken in seconds:  116.15497493743896
+block number:  38 Start-End 3800 3900   time taken in seconds:  109.73733282089233
+block number:  39 Start-End 3900 4000   time taken in seconds:  109.28702473640442
+block number:  40 Start-End 4000 4100   time taken in seconds:  103.56698536872864
+block number:  41 Start-End 4100 4200   time taken in seconds:  103.8795599937439
+block number:  42 Start-End 4200 4300   time taken in seconds:  111.93556237220764
+block number:  43 Start-End 4300 4400   time taken in seconds:  109.86634302139282
+block number:  44 Start-End 4400 4500   time taken in seconds:  101.7608654499054
+block number:  45 Start-End 4500 4600   time taken in seconds:  111.57272434234619
+block number:  46 Start-End 4600 4700   time taken in seconds:  112.13927435874939
+block number:  47 Start-End 4700 4800   time taken in seconds:  107.34633541107178
+block number:  48 Start-End 4800 4900   time taken in seconds:  107.39086365699768
+block number:  49 Start-End 4900 5000   time taken in seconds:  109.82074284553528
+block number:  50 Start-End 5000 5100   time taken in seconds:  110.64002919197083
+block number:  51 Start-End 5100 5200   time taken in seconds:  107.81547808647156
+block number:  52 Start-End 5200 5300   time taken in seconds:  108.19554233551025
+block number:  53 Start-End 5300 5400   time taken in seconds:  107.44000101089478
+block number:  54 Start-End 5400 5500   time taken in seconds:  111.56668591499329
+block number:  55 Start-End 5500 5600   time taken in seconds:  101.43833374977112
+block number:  56 Start-End 5600 5700   time taken in seconds:  107.05308079719543
+block number:  57 Start-End 5700 5800   time taken in seconds:  105.5258002281189
+block number:  58 Start-End 5800 5900   time taken in seconds:  108.5418131351471
+block number:  59 Start-End 5900 6000   time taken in seconds:  110.97864294052124
+block number:  60 Start-End 6000 6100   time taken in seconds:  115.00098609924316
+block number:  61 Start-End 6100 6200   time taken in seconds:  108.33758211135864
+block number:  62 Start-End 6200 6300   time taken in seconds:  109.83600354194641
+block number:  63 Start-End 6300 6400   time taken in seconds:  110.05683159828186
+block number:  64 Start-End 6400 6500   time taken in seconds:  105.57449293136597
+block number:  65 Start-End 6500 6600   time taken in seconds:  108.02794218063354
+block number:  66 Start-End 6600 6700   time taken in seconds:  106.45448851585388
+block number:  67 Start-End 6700 6800   time taken in seconds:  111.57858657836914
+block number:  68 Start-End 6800 6900   time taken in seconds:  110.17119002342224
+block number:  69 Start-End 6900 7000   time taken in seconds:  109.6138527393341
+block number:  70 Start-End 7000 7100   time taken in seconds:  109.486154794693
+block number:  71 Start-End 7100 7200   time taken in seconds:  111.42971062660217
+block number:  72 Start-End 7200 7300   time taken in seconds:  115.57861542701721
+block number:  73 Start-End 7300 7400   time taken in seconds:  108.51867365837097
+block number:  74 Start-End 7400 7500   time taken in seconds:  105.42073488235474
+block number:  75 Start-End 7500 7600   time taken in seconds:  108.42640113830566
+block number:  76 Start-End 7600 7700   time taken in seconds:  105.45861077308655
+block number:  77 Start-End 7700 7800   time taken in seconds:  107.62079906463623
+block number:  78 Start-End 7800 7900   time taken in seconds:  113.16011142730713
+block number:  79 Start-End 7900 8000   time taken in seconds:  113.36896419525146
+block number:  80 Start-End 8000 8100   time taken in seconds:  112.84847831726074
+block number:  81 Start-End 8100 8200   time taken in seconds:  103.38324332237244
+block number:  82 Start-End 8200 8300   time taken in seconds:  109.57281470298767
+block number:  83 Start-End 8300 8400   time taken in seconds:  107.35158491134644
+block number:  84 Start-End 8400 8500   time taken in seconds:  111.02041125297546
+block number:  85 Start-End 8500 8600   time taken in seconds:  108.01990532875061
+block number:  86 Start-End 8600 None   time taken in seconds:  18.36280870437622
+Number of samples after bg: 220 
+Number of temp files written 201
+(183, 60, 10, 20) 0 out of  201
+(201, 60, 10, 20) 1 out of  201
+(186, 60, 10, 20) 2 out of  201
+(196, 60, 10, 20) 3 out of  201
+(180, 60, 10, 20) 4 out of  201
+(191, 60, 10, 20) 5 out of  201
+(198, 60, 10, 20) 6 out of  201
+(202, 60, 10, 20) 7 out of  201
+(192, 60, 10, 20) 8 out of  201
+(176, 60, 10, 20) 9 out of  201
+(184, 60, 10, 20) 10 out of  201
+(200, 60, 10, 20) 11 out of  201
+(191, 60, 10, 20) 12 out of  201
+(167, 60, 10, 20) 13 out of  201
+(206, 60, 10, 20) 14 out of  201
+(187, 60, 10, 20) 15 out of  201
+(177, 60, 10, 20) 16 out of  201
+(174, 60, 10, 20) 17 out of  201
+(195, 60, 10, 20) 18 out of  201
+(198, 60, 10, 20) 19 out of  201
+(204, 60, 10, 20) 20 out of  201
+(189, 60, 10, 20) 21 out of  201
+(174, 60, 10, 20) 22 out of  201
+(210, 60, 10, 20) 23 out of  201
+(185, 60, 10, 20) 24 out of  201
+(178, 60, 10, 20) 25 out of  201
+(184, 60, 10, 20) 26 out of  201
+(192, 60, 10, 20) 27 out of  201
+(202, 60, 10, 20) 28 out of  201
+(206, 60, 10, 20) 29 out of  201
+(170, 60, 10, 20) 30 out of  201
+(183, 60, 10, 20) 31 out of  201
+(190, 60, 10, 20) 32 out of  201
+(184, 60, 10, 20) 33 out of  201
+(177, 60, 10, 20) 34 out of  201
+(173, 60, 10, 20) 35 out of  201
+(176, 60, 10, 20) 36 out of  201
+(202, 60, 10, 20) 37 out of  201
+(185, 60, 10, 20) 38 out of  201
+(191, 60, 10, 20) 39 out of  201
+(197, 60, 10, 20) 40 out of  201
+(204, 60, 10, 20) 41 out of  201
+(176, 60, 10, 20) 42 out of  201
+(187, 60, 10, 20) 43 out of  201
+(171, 60, 10, 20) 44 out of  201
+(198, 60, 10, 20) 45 out of  201
+(180, 60, 10, 20) 46 out of  201
+(181, 60, 10, 20) 47 out of  201
+(195, 60, 10, 20) 48 out of  201
+(180, 60, 10, 20) 49 out of  201
+(198, 60, 10, 20) 50 out of  201
+(174, 60, 10, 20) 51 out of  201
+(200, 60, 10, 20) 52 out of  201
+(194, 60, 10, 20) 53 out of  201
+(180, 60, 10, 20) 54 out of  201
+(190, 60, 10, 20) 55 out of  201
+(172, 60, 10, 20) 56 out of  201
+(191, 60, 10, 20) 57 out of  201
+(156, 60, 10, 20) 58 out of  201
+(212, 60, 10, 20) 59 out of  201
+(191, 60, 10, 20) 60 out of  201
+(207, 60, 10, 20) 61 out of  201
+(184, 60, 10, 20) 62 out of  201
+(183, 60, 10, 20) 63 out of  201
+(197, 60, 10, 20) 64 out of  201
+(179, 60, 10, 20) 65 out of  201
+(180, 60, 10, 20) 66 out of  201
+(175, 60, 10, 20) 67 out of  201
+(169, 60, 10, 20) 68 out of  201
+(187, 60, 10, 20) 69 out of  201
+(186, 60, 10, 20) 70 out of  201
+(201, 60, 10, 20) 71 out of  201
+(179, 60, 10, 20) 72 out of  201
+(206, 60, 10, 20) 73 out of  201
+(209, 60, 10, 20) 74 out of  201
+(164, 60, 10, 20) 75 out of  201
+(200, 60, 10, 20) 76 out of  201
+(166, 60, 10, 20) 77 out of  201
+(186, 60, 10, 20) 78 out of  201
+(173, 60, 10, 20) 79 out of  201
+(194, 60, 10, 20) 80 out of  201
+(178, 60, 10, 20) 81 out of  201
+(176, 60, 10, 20) 82 out of  201
+(188, 60, 10, 20) 83 out of  201
+(168, 60, 10, 20) 84 out of  201
+(178, 60, 10, 20) 85 out of  201
+(185, 60, 10, 20) 86 out of  201
+(185, 60, 10, 20) 87 out of  201
+(188, 60, 10, 20) 88 out of  201
+(188, 60, 10, 20) 89 out of  201
+(182, 60, 10, 20) 90 out of  201
+(194, 60, 10, 20) 91 out of  201
+(191, 60, 10, 20) 92 out of  201
+(181, 60, 10, 20) 93 out of  201
+(193, 60, 10, 20) 94 out of  201
+(180, 60, 10, 20) 95 out of  201
+(173, 60, 10, 20) 96 out of  201
+(197, 60, 10, 20) 97 out of  201
+(176, 60, 10, 20) 98 out of  201
+(169, 60, 10, 20) 99 out of  201
+(185, 60, 10, 20) 100 out of  201
+(185, 60, 10, 20) 101 out of  201
+(181, 60, 10, 20) 102 out of  201
+(183, 60, 10, 20) 103 out of  201
+(193, 60, 10, 20) 104 out of  201
+(193, 60, 10, 20) 105 out of  201
+(186, 60, 10, 20) 106 out of  201
+(197, 60, 10, 20) 107 out of  201
+(197, 60, 10, 20) 108 out of  201
+(193, 60, 10, 20) 109 out of  201
+(191, 60, 10, 20) 110 out of  201
+(180, 60, 10, 20) 111 out of  201
+(199, 60, 10, 20) 112 out of  201
+(108, 60, 10, 20) 113 out of  201
+(1293, 60, 10, 20) 114 out of  201
+(1296, 60, 10, 20) 115 out of  201
+(1238, 60, 10, 20) 116 out of  201
+(1270, 60, 10, 20) 117 out of  201
+(1209, 60, 10, 20) 118 out of  201
+(1284, 60, 10, 20) 119 out of  201
+(1263, 60, 10, 20) 120 out of  201
+(1213, 60, 10, 20) 121 out of  201
+(1290, 60, 10, 20) 122 out of  201
+(1216, 60, 10, 20) 123 out of  201
+(1270, 60, 10, 20) 124 out of  201
+(1273, 60, 10, 20) 125 out of  201
+(1327, 60, 10, 20) 126 out of  201
+(1263, 60, 10, 20) 127 out of  201
+(1297, 60, 10, 20) 128 out of  201
+(1243, 60, 10, 20) 129 out of  201
+(1335, 60, 10, 20) 130 out of  201
+(1274, 60, 10, 20) 131 out of  201
+(1237, 60, 10, 20) 132 out of  201
+(1237, 60, 10, 20) 133 out of  201
+(1225, 60, 10, 20) 134 out of  201
+(1192, 60, 10, 20) 135 out of  201
+(1242, 60, 10, 20) 136 out of  201
+(1283, 60, 10, 20) 137 out of  201
+(1239, 60, 10, 20) 138 out of  201
+(1248, 60, 10, 20) 139 out of  201
+(1302, 60, 10, 20) 140 out of  201
+(1265, 60, 10, 20) 141 out of  201
+(1267, 60, 10, 20) 142 out of  201
+(1295, 60, 10, 20) 143 out of  201
+(1224, 60, 10, 20) 144 out of  201
+(1268, 60, 10, 20) 145 out of  201
+(1302, 60, 10, 20) 146 out of  201
+(1220, 60, 10, 20) 147 out of  201
+(1270, 60, 10, 20) 148 out of  201
+(1309, 60, 10, 20) 149 out of  201
+(1293, 60, 10, 20) 150 out of  201
+(1330, 60, 10, 20) 151 out of  201
+(1268, 60, 10, 20) 152 out of  201
+(1307, 60, 10, 20) 153 out of  201
+(1228, 60, 10, 20) 154 out of  201
+(1221, 60, 10, 20) 155 out of  201
+(1324, 60, 10, 20) 156 out of  201
+(1301, 60, 10, 20) 157 out of  201
+(1224, 60, 10, 20) 158 out of  201
+(1274, 60, 10, 20) 159 out of  201
+(1284, 60, 10, 20) 160 out of  201
+(1244, 60, 10, 20) 161 out of  201
+(1235, 60, 10, 20) 162 out of  201
+(1296, 60, 10, 20) 163 out of  201
+(1296, 60, 10, 20) 164 out of  201
+(1266, 60, 10, 20) 165 out of  201
+(1286, 60, 10, 20) 166 out of  201
+(1253, 60, 10, 20) 167 out of  201
+(1298, 60, 10, 20) 168 out of  201
+(1217, 60, 10, 20) 169 out of  201
+(1288, 60, 10, 20) 170 out of  201
+(1251, 60, 10, 20) 171 out of  201
+(1282, 60, 10, 20) 172 out of  201
+(1309, 60, 10, 20) 173 out of  201
+(1353, 60, 10, 20) 174 out of  201
+(1269, 60, 10, 20) 175 out of  201
+(1295, 60, 10, 20) 176 out of  201
+(1318, 60, 10, 20) 177 out of  201
+(1252, 60, 10, 20) 178 out of  201
+(1278, 60, 10, 20) 179 out of  201
+(1258, 60, 10, 20) 180 out of  201
+(1281, 60, 10, 20) 181 out of  201
+(1293, 60, 10, 20) 182 out of  201
+(1264, 60, 10, 20) 183 out of  201
+(1278, 60, 10, 20) 184 out of  201
+(1343, 60, 10, 20) 185 out of  201
+(1357, 60, 10, 20) 186 out of  201
+(1298, 60, 10, 20) 187 out of  201
+(1252, 60, 10, 20) 188 out of  201
+(1271, 60, 10, 20) 189 out of  201
+(1233, 60, 10, 20) 190 out of  201
+(1283, 60, 10, 20) 191 out of  201
+(1335, 60, 10, 20) 192 out of  201
+(1325, 60, 10, 20) 193 out of  201
+(1334, 60, 10, 20) 194 out of  201
+(1235, 60, 10, 20) 195 out of  201
+(1274, 60, 10, 20) 196 out of  201
+(1269, 60, 10, 20) 197 out of  201
+(1276, 60, 10, 20) 198 out of  201
+(1259, 60, 10, 20) 199 out of  201
+(220, 60, 10, 20) 200 out of  201
+Time taken for concatenating temp files 246.9474322795868
+Data shape after read:	x:(130989, 60, 10, 20)	y:(130989,)	wts:(130989,)	info:(130989, 3)
+Data shape after format:	x:(130989, 10, 20, 60, 1)	y:(130989,)
+Time taken in minutes  189.9526138305664
+Type of data:	 reserved
+Sizes of signal and background lists:  7593 56748
+Type:  sig
+Number of blocks 76
+block number:  0 Start-End 0 100   time taken in seconds:  16.05461096763611
+block number:  1 Start-End 100 200   time taken in seconds:  16.112366437911987
+block number:  2 Start-End 200 300   time taken in seconds:  15.027424097061157
+block number:  3 Start-End 300 400   time taken in seconds:  14.82747483253479
+block number:  4 Start-End 400 500   time taken in seconds:  15.045232057571411
+block number:  5 Start-End 500 600   time taken in seconds:  16.082937479019165
+block number:  6 Start-End 600 700   time taken in seconds:  15.265540838241577
+block number:  7 Start-End 700 800   time taken in seconds:  15.720263957977295
+block number:  8 Start-End 800 900   time taken in seconds:  14.77884578704834
+block number:  9 Start-End 900 1000   time taken in seconds:  17.87676429748535
+block number:  10 Start-End 1000 1100   time taken in seconds:  16.841368198394775
+block number:  11 Start-End 1100 1200   time taken in seconds:  16.997821807861328
+block number:  12 Start-End 1200 1300   time taken in seconds:  13.73566484451294
+block number:  13 Start-End 1300 1400   time taken in seconds:  16.42571449279785
+block number:  14 Start-End 1400 1500   time taken in seconds:  15.476229667663574
+block number:  15 Start-End 1500 1600   time taken in seconds:  14.356661558151245
+block number:  16 Start-End 1600 1700   time taken in seconds:  16.2610342502594
+block number:  17 Start-End 1700 1800   time taken in seconds:  16.657092809677124
+block number:  18 Start-End 1800 1900   time taken in seconds:  13.274080514907837
+block number:  19 Start-End 1900 2000   time taken in seconds:  15.676384687423706
+block number:  20 Start-End 2000 2100   time taken in seconds:  14.995718717575073
+block number:  21 Start-End 2100 2200   time taken in seconds:  15.331186056137085
+block number:  22 Start-End 2200 2300   time taken in seconds:  14.518225908279419
+block number:  23 Start-End 2300 2400   time taken in seconds:  15.84922194480896
+block number:  24 Start-End 2400 2500   time taken in seconds:  16.05129647254944
+block number:  25 Start-End 2500 2600   time taken in seconds:  15.894453287124634
+block number:  26 Start-End 2600 2700   time taken in seconds:  15.225728988647461
+block number:  27 Start-End 2700 2800   time taken in seconds:  15.50890588760376
+block number:  28 Start-End 2800 2900   time taken in seconds:  14.922358512878418
+block number:  29 Start-End 2900 3000   time taken in seconds:  14.817374467849731
+block number:  30 Start-End 3000 3100   time taken in seconds:  16.860082626342773
+block number:  31 Start-End 3100 3200   time taken in seconds:  14.441521644592285
+block number:  32 Start-End 3200 3300   time taken in seconds:  16.55345869064331
+block number:  33 Start-End 3300 3400   time taken in seconds:  16.437987804412842
+block number:  34 Start-End 3400 3500   time taken in seconds:  15.181127786636353
+block number:  35 Start-End 3500 3600   time taken in seconds:  15.16201400756836
+block number:  36 Start-End 3600 3700   time taken in seconds:  15.737188339233398
+block number:  37 Start-End 3700 3800   time taken in seconds:  15.048804521560669
+block number:  38 Start-End 3800 3900   time taken in seconds:  17.30131483078003
+block number:  39 Start-End 3900 4000   time taken in seconds:  17.617170333862305
+block number:  40 Start-End 4000 4100   time taken in seconds:  15.739760160446167
+block number:  41 Start-End 4100 4200   time taken in seconds:  14.66106390953064
+block number:  42 Start-End 4200 4300   time taken in seconds:  16.31098198890686
+block number:  43 Start-End 4300 4400   time taken in seconds:  12.727686405181885
+block number:  44 Start-End 4400 4500   time taken in seconds:  14.557046890258789
+block number:  45 Start-End 4500 4600   time taken in seconds:  15.274489164352417
+block number:  46 Start-End 4600 4700   time taken in seconds:  14.84098505973816
+block number:  47 Start-End 4700 4800   time taken in seconds:  14.119070768356323
+block number:  48 Start-End 4800 4900   time taken in seconds:  16.33458924293518
+block number:  49 Start-End 4900 5000   time taken in seconds:  16.98983860015869
+block number:  50 Start-End 5000 5100   time taken in seconds:  15.604053020477295
+block number:  51 Start-End 5100 5200   time taken in seconds:  16.39996838569641
+block number:  52 Start-End 5200 5300   time taken in seconds:  13.889774084091187
+block number:  53 Start-End 5300 5400   time taken in seconds:  17.813724994659424
+block number:  54 Start-End 5400 5500   time taken in seconds:  16.25909733772278
+block number:  55 Start-End 5500 5600   time taken in seconds:  15.633036375045776
+block number:  56 Start-End 5600 5700   time taken in seconds:  15.471924543380737
+block number:  57 Start-End 5700 5800   time taken in seconds:  15.424942016601562
+block number:  58 Start-End 5800 5900   time taken in seconds:  16.65319561958313
+block number:  59 Start-End 5900 6000   time taken in seconds:  15.57065486907959
+block number:  60 Start-End 6000 6100   time taken in seconds:  12.95794415473938
+block number:  61 Start-End 6100 6200   time taken in seconds:  15.765107154846191
+block number:  62 Start-End 6200 6300   time taken in seconds:  16.05766010284424
+block number:  63 Start-End 6300 6400   time taken in seconds:  13.269443988800049
+block number:  64 Start-End 6400 6500   time taken in seconds:  14.791503429412842
+block number:  65 Start-End 6500 6600   time taken in seconds:  13.337351322174072
+block number:  66 Start-End 6600 6700   time taken in seconds:  15.256976842880249
+block number:  67 Start-End 6700 6800   time taken in seconds:  15.33920669555664
+block number:  68 Start-End 6800 6900   time taken in seconds:  14.21746015548706
+block number:  69 Start-End 6900 7000   time taken in seconds:  17.24506378173828
+block number:  70 Start-End 7000 7100   time taken in seconds:  18.555626392364502
+block number:  71 Start-End 7100 7200   time taken in seconds:  15.0880286693573
+block number:  72 Start-End 7200 7300   time taken in seconds:  14.876012086868286
+block number:  73 Start-End 7300 7400   time taken in seconds:  15.772295951843262
+block number:  74 Start-End 7400 7500   time taken in seconds:  14.327701807022095
+block number:  75 Start-End 7500 None   time taken in seconds:  14.712120294570923
+Number of samples after sig: 190 
+Type:  bg
+Number of blocks 568
+block number:  0 Start-End 0 100   time taken in seconds:  108.01502561569214
+block number:  1 Start-End 100 200   time taken in seconds:  110.05141615867615
+block number:  2 Start-End 200 300   time taken in seconds:  111.23659992218018
+block number:  3 Start-End 300 400   time taken in seconds:  108.93584990501404
+block number:  4 Start-End 400 500   time taken in seconds:  104.84947657585144
+block number:  5 Start-End 500 600   time taken in seconds:  112.46873569488525
+block number:  6 Start-End 600 700   time taken in seconds:  106.22921204566956
+block number:  7 Start-End 700 800   time taken in seconds:  107.47762298583984
+block number:  8 Start-End 800 900   time taken in seconds:  104.72832083702087
+block number:  9 Start-End 900 1000   time taken in seconds:  107.34929013252258
+block number:  10 Start-End 1000 1100   time taken in seconds:  110.64772915840149
+block number:  11 Start-End 1100 1200   time taken in seconds:  110.63485193252563
+block number:  12 Start-End 1200 1300   time taken in seconds:  114.55486536026001
+block number:  13 Start-End 1300 1400   time taken in seconds:  110.404043674469
+block number:  14 Start-End 1400 1500   time taken in seconds:  110.38588666915894
+block number:  15 Start-End 1500 1600   time taken in seconds:  107.40440225601196
+block number:  16 Start-End 1600 1700   time taken in seconds:  106.49663233757019
+block number:  17 Start-End 1700 1800   time taken in seconds:  109.76676893234253
+block number:  18 Start-End 1800 1900   time taken in seconds:  107.17892909049988
+block number:  19 Start-End 1900 2000   time taken in seconds:  111.96046161651611
+block number:  20 Start-End 2000 2100   time taken in seconds:  107.6170060634613
+block number:  21 Start-End 2100 2200   time taken in seconds:  118.28103232383728
+block number:  22 Start-End 2200 2300   time taken in seconds:  106.62000894546509
+block number:  23 Start-End 2300 2400   time taken in seconds:  105.62823820114136
+block number:  24 Start-End 2400 2500   time taken in seconds:  111.12072801589966
+block number:  25 Start-End 2500 2600   time taken in seconds:  112.43743920326233
+block number:  26 Start-End 2600 2700   time taken in seconds:  114.58743047714233
+block number:  27 Start-End 2700 2800   time taken in seconds:  105.30823826789856
+block number:  28 Start-End 2800 2900   time taken in seconds:  110.54859805107117
+block number:  29 Start-End 2900 3000   time taken in seconds:  102.1177351474762
+block number:  30 Start-End 3000 3100   time taken in seconds:  106.54858708381653
+block number:  31 Start-End 3100 3200   time taken in seconds:  108.2485818862915
+block number:  32 Start-End 3200 3300   time taken in seconds:  105.60130858421326
+block number:  33 Start-End 3300 3400   time taken in seconds:  110.86088442802429
+block number:  34 Start-End 3400 3500   time taken in seconds:  107.30965256690979
+block number:  35 Start-End 3500 3600   time taken in seconds:  107.59905314445496
+block number:  36 Start-End 3600 3700   time taken in seconds:  112.53844451904297
+block number:  37 Start-End 3700 3800   time taken in seconds:  110.410315990448
+block number:  38 Start-End 3800 3900   time taken in seconds:  105.1915876865387
+block number:  39 Start-End 3900 4000   time taken in seconds:  103.9873538017273
+block number:  40 Start-End 4000 4100   time taken in seconds:  109.3884961605072
+block number:  41 Start-End 4100 4200   time taken in seconds:  105.43225073814392
+block number:  42 Start-End 4200 4300   time taken in seconds:  107.13364863395691
+block number:  43 Start-End 4300 4400   time taken in seconds:  107.6361813545227
+block number:  44 Start-End 4400 4500   time taken in seconds:  108.80385112762451
+block number:  45 Start-End 4500 4600   time taken in seconds:  119.17102265357971
+block number:  46 Start-End 4600 4700   time taken in seconds:  105.00958585739136
+block number:  47 Start-End 4700 4800   time taken in seconds:  111.09138107299805
+block number:  48 Start-End 4800 4900   time taken in seconds:  107.97364020347595
+block number:  49 Start-End 4900 5000   time taken in seconds:  103.56841373443604
+block number:  50 Start-End 5000 5100   time taken in seconds:  108.43606662750244
+block number:  51 Start-End 5100 5200   time taken in seconds:  107.65683937072754
+block number:  52 Start-End 5200 5300   time taken in seconds:  109.9333188533783
+block number:  53 Start-End 5300 5400   time taken in seconds:  110.48644495010376
+block number:  54 Start-End 5400 5500   time taken in seconds:  107.67691612243652
+block number:  55 Start-End 5500 5600   time taken in seconds:  102.3432629108429
+block number:  56 Start-End 5600 5700   time taken in seconds:  102.79990124702454
+block number:  57 Start-End 5700 5800   time taken in seconds:  107.74142670631409
+block number:  58 Start-End 5800 5900   time taken in seconds:  110.0602478981018
+block number:  59 Start-End 5900 6000   time taken in seconds:  110.1126184463501
+block number:  60 Start-End 6000 6100   time taken in seconds:  105.66144466400146
+block number:  61 Start-End 6100 6200   time taken in seconds:  114.51361131668091
+block number:  62 Start-End 6200 6300   time taken in seconds:  105.53501772880554
+block number:  63 Start-End 6300 6400   time taken in seconds:  106.61360740661621
+block number:  64 Start-End 6400 6500   time taken in seconds:  113.47566604614258
+block number:  65 Start-End 6500 6600   time taken in seconds:  109.28048658370972
+block number:  66 Start-End 6600 6700   time taken in seconds:  109.53272771835327
+block number:  67 Start-End 6700 6800   time taken in seconds:  110.23345756530762
+block number:  68 Start-End 6800 6900   time taken in seconds:  104.18321251869202
+block number:  69 Start-End 6900 7000   time taken in seconds:  102.6586229801178
+block number:  70 Start-End 7000 7100   time taken in seconds:  116.03592824935913
+block number:  71 Start-End 7100 7200   time taken in seconds:  108.70833683013916
+block number:  72 Start-End 7200 7300   time taken in seconds:  107.26655077934265
+block number:  73 Start-End 7300 7400   time taken in seconds:  104.03854179382324
+block number:  74 Start-End 7400 7500   time taken in seconds:  115.79756903648376
+block number:  75 Start-End 7500 7600   time taken in seconds:  105.91035556793213
+block number:  76 Start-End 7600 7700   time taken in seconds:  112.89113116264343
+block number:  77 Start-End 7700 7800   time taken in seconds:  112.19676756858826
+block number:  78 Start-End 7800 7900   time taken in seconds:  108.76858377456665
+block number:  79 Start-End 7900 8000   time taken in seconds:  109.17625665664673
+block number:  80 Start-End 8000 8100   time taken in seconds:  109.92455554008484
+block number:  81 Start-End 8100 8200   time taken in seconds:  108.63687491416931
+block number:  82 Start-End 8200 8300   time taken in seconds:  108.24371528625488
+block number:  83 Start-End 8300 8400   time taken in seconds:  108.72211623191833
+block number:  84 Start-End 8400 8500   time taken in seconds:  110.3841016292572
+block number:  85 Start-End 8500 8600   time taken in seconds:  111.40963053703308
+block number:  86 Start-End 8600 8700   time taken in seconds:  107.74705195426941
+block number:  87 Start-End 8700 8800   time taken in seconds:  110.0076675415039
+block number:  88 Start-End 8800 8900   time taken in seconds:  107.75037717819214
+block number:  89 Start-End 8900 9000   time taken in seconds:  107.55466675758362
+block number:  90 Start-End 9000 9100   time taken in seconds:  110.84945559501648
+block number:  91 Start-End 9100 9200   time taken in seconds:  113.42600846290588
+block number:  92 Start-End 9200 9300   time taken in seconds:  109.21080803871155
+block number:  93 Start-End 9300 9400   time taken in seconds:  105.63487982749939
+block number:  94 Start-End 9400 9500   time taken in seconds:  109.67982792854309
+block number:  95 Start-End 9500 9600   time taken in seconds:  105.78856372833252
+block number:  96 Start-End 9600 9700   time taken in seconds:  109.55541944503784
+block number:  97 Start-End 9700 9800   time taken in seconds:  106.75055575370789
+block number:  98 Start-End 9800 9900   time taken in seconds:  112.23541212081909
+block number:  99 Start-End 9900 10000   time taken in seconds:  111.60910773277283
+block number:  100 Start-End 10000 10100   time taken in seconds:  104.70169520378113
+block number:  101 Start-End 10100 10200   time taken in seconds:  116.0520293712616
+block number:  102 Start-End 10200 10300   time taken in seconds:  106.57284879684448
+block number:  103 Start-End 10300 10400   time taken in seconds:  102.69256043434143
+block number:  104 Start-End 10400 10500   time taken in seconds:  109.46350336074829
+block number:  105 Start-End 10500 10600   time taken in seconds:  108.25126719474792
+block number:  106 Start-End 10600 10700   time taken in seconds:  102.49888300895691
+block number:  107 Start-End 10700 10800   time taken in seconds:  111.41599130630493
+block number:  108 Start-End 10800 10900   time taken in seconds:  116.28014039993286
+block number:  109 Start-End 10900 11000   time taken in seconds:  110.30332016944885
+block number:  110 Start-End 11000 11100   time taken in seconds:  108.15905141830444
+block number:  111 Start-End 11100 11200   time taken in seconds:  106.13514733314514
+block number:  112 Start-End 11200 11300   time taken in seconds:  105.39457750320435
+block number:  113 Start-End 11300 11400   time taken in seconds:  107.47832703590393
+block number:  114 Start-End 11400 11500   time taken in seconds:  112.43830609321594
+block number:  115 Start-End 11500 11600   time taken in seconds:  110.35894846916199
+block number:  116 Start-End 11600 11700   time taken in seconds:  111.71579003334045
+block number:  117 Start-End 11700 11800   time taken in seconds:  107.51226782798767
+block number:  118 Start-End 11800 11900   time taken in seconds:  103.53836798667908
+block number:  119 Start-End 11900 12000   time taken in seconds:  110.73740673065186
+block number:  120 Start-End 12000 12100   time taken in seconds:  109.2895724773407
+block number:  121 Start-End 12100 12200   time taken in seconds:  109.09437680244446
+block number:  122 Start-End 12200 12300   time taken in seconds:  107.11170053482056
+block number:  123 Start-End 12300 12400   time taken in seconds:  114.42306113243103
+block number:  124 Start-End 12400 12500   time taken in seconds:  116.44632744789124
+block number:  125 Start-End 12500 12600   time taken in seconds:  109.04073095321655
+block number:  126 Start-End 12600 12700   time taken in seconds:  109.96686339378357
+block number:  127 Start-End 12700 12800   time taken in seconds:  110.85128617286682
+block number:  128 Start-End 12800 12900   time taken in seconds:  108.29277014732361
+block number:  129 Start-End 12900 13000   time taken in seconds:  106.41417407989502
+block number:  130 Start-End 13000 13100   time taken in seconds:  107.28647303581238
+block number:  131 Start-End 13100 13200   time taken in seconds:  107.21966242790222
+block number:  132 Start-End 13200 13300   time taken in seconds:  107.55397391319275
+block number:  133 Start-End 13300 13400   time taken in seconds:  112.17336535453796
+block number:  134 Start-End 13400 13500   time taken in seconds:  107.73955154418945
+block number:  135 Start-End 13500 13600   time taken in seconds:  107.24119997024536
+block number:  136 Start-End 13600 13700   time taken in seconds:  103.4937527179718
+block number:  137 Start-End 13700 13800   time taken in seconds:  108.57776665687561
+block number:  138 Start-End 13800 13900   time taken in seconds:  106.81644320487976
+block number:  139 Start-End 13900 14000   time taken in seconds:  110.48271179199219
+block number:  140 Start-End 14000 14100   time taken in seconds:  107.65146493911743
+block number:  141 Start-End 14100 14200   time taken in seconds:  100.89959669113159
+block number:  142 Start-End 14200 14300   time taken in seconds:  103.15333795547485
+block number:  143 Start-End 14300 14400   time taken in seconds:  112.31782865524292
+block number:  144 Start-End 14400 14500   time taken in seconds:  108.66479659080505
+block number:  145 Start-End 14500 14600   time taken in seconds:  109.76390218734741
+block number:  146 Start-End 14600 14700   time taken in seconds:  108.73699760437012
+block number:  147 Start-End 14700 14800   time taken in seconds:  107.29537725448608
+block number:  148 Start-End 14800 14900   time taken in seconds:  111.45926094055176
+block number:  149 Start-End 14900 15000   time taken in seconds:  113.07606744766235
+block number:  150 Start-End 15000 15100   time taken in seconds:  105.37074565887451
+block number:  151 Start-End 15100 15200   time taken in seconds:  112.84827828407288
+block number:  152 Start-End 15200 15300   time taken in seconds:  106.87912487983704
+block number:  153 Start-End 15300 15400   time taken in seconds:  115.99658918380737
+block number:  154 Start-End 15400 15500   time taken in seconds:  107.82596182823181
+block number:  155 Start-End 15500 15600   time taken in seconds:  109.81961417198181
+block number:  156 Start-End 15600 15700   time taken in seconds:  107.72434043884277
+block number:  157 Start-End 15700 15800   time taken in seconds:  113.62424540519714
+block number:  158 Start-End 15800 15900   time taken in seconds:  104.6873779296875
+block number:  159 Start-End 15900 16000   time taken in seconds:  109.71428894996643
+block number:  160 Start-End 16000 16100   time taken in seconds:  111.39457845687866
+block number:  161 Start-End 16100 16200   time taken in seconds:  109.46925377845764
+block number:  162 Start-End 16200 16300   time taken in seconds:  112.42949628829956
+block number:  163 Start-End 16300 16400   time taken in seconds:  101.84024930000305
+block number:  164 Start-End 16400 16500   time taken in seconds:  111.78642511367798
+block number:  165 Start-End 16500 16600   time taken in seconds:  106.15933799743652
+block number:  166 Start-End 16600 16700   time taken in seconds:  107.09022092819214
+block number:  167 Start-End 16700 16800   time taken in seconds:  110.37061023712158
+block number:  168 Start-End 16800 16900   time taken in seconds:  107.4228367805481
+block number:  169 Start-End 16900 17000   time taken in seconds:  106.19720220565796
+block number:  170 Start-End 17000 17100   time taken in seconds:  114.62423729896545
+block number:  171 Start-End 17100 17200   time taken in seconds:  108.43671655654907
+block number:  172 Start-End 17200 17300   time taken in seconds:  102.68242478370667
+block number:  173 Start-End 17300 17400   time taken in seconds:  107.0010278224945
+block number:  174 Start-End 17400 17500   time taken in seconds:  101.90127992630005
+block number:  175 Start-End 17500 17600   time taken in seconds:  104.59212303161621
+block number:  176 Start-End 17600 17700   time taken in seconds:  108.13447284698486
+block number:  177 Start-End 17700 17800   time taken in seconds:  106.81909990310669
+block number:  178 Start-End 17800 17900   time taken in seconds:  105.4709746837616
+block number:  179 Start-End 17900 18000   time taken in seconds:  105.43012595176697
+block number:  180 Start-End 18000 18100   time taken in seconds:  110.6675169467926
+block number:  181 Start-End 18100 18200   time taken in seconds:  108.63781881332397
+block number:  182 Start-End 18200 18300   time taken in seconds:  109.09636974334717
+block number:  183 Start-End 18300 18400   time taken in seconds:  109.44331502914429
+block number:  184 Start-End 18400 18500   time taken in seconds:  110.45611643791199
+block number:  185 Start-End 18500 18600   time taken in seconds:  109.22809982299805
+block number:  186 Start-End 18600 18700   time taken in seconds:  110.52796292304993
+block number:  187 Start-End 18700 18800   time taken in seconds:  107.61236953735352
+block number:  188 Start-End 18800 18900   time taken in seconds:  110.8023099899292
+block number:  189 Start-End 18900 19000   time taken in seconds:  114.58476185798645
+block number:  190 Start-End 19000 19100   time taken in seconds:  104.327951669693
+block number:  191 Start-End 19100 19200   time taken in seconds:  110.64589285850525
+block number:  192 Start-End 19200 19300   time taken in seconds:  111.60698366165161
+block number:  193 Start-End 19300 19400   time taken in seconds:  110.43567728996277
+block number:  194 Start-End 19400 19500   time taken in seconds:  107.55112814903259
+block number:  195 Start-End 19500 19600   time taken in seconds:  105.79516386985779
+block number:  196 Start-End 19600 19700   time taken in seconds:  105.65239453315735
+block number:  197 Start-End 19700 19800   time taken in seconds:  109.45097780227661
+block number:  198 Start-End 19800 19900   time taken in seconds:  112.98842406272888
+block number:  199 Start-End 19900 20000   time taken in seconds:  103.97582340240479
+block number:  200 Start-End 20000 20100   time taken in seconds:  102.69694209098816
+block number:  201 Start-End 20100 20200   time taken in seconds:  115.38798427581787
+block number:  202 Start-End 20200 20300   time taken in seconds:  113.99581575393677
+block number:  203 Start-End 20300 20400   time taken in seconds:  108.29298973083496
+block number:  204 Start-End 20400 20500   time taken in seconds:  111.48551034927368
+block number:  205 Start-End 20500 20600   time taken in seconds:  108.89927864074707
+block number:  206 Start-End 20600 20700   time taken in seconds:  112.41297149658203
+block number:  207 Start-End 20700 20800   time taken in seconds:  112.19762539863586
+block number:  208 Start-End 20800 20900   time taken in seconds:  107.19509410858154
+block number:  209 Start-End 20900 21000   time taken in seconds:  106.29547548294067
+block number:  210 Start-End 21000 21100   time taken in seconds:  106.20063495635986
+block number:  211 Start-End 21100 21200   time taken in seconds:  108.75355863571167
+block number:  212 Start-End 21200 21300   time taken in seconds:  113.19851684570312
+block number:  213 Start-End 21300 21400   time taken in seconds:  107.9706072807312
+block number:  214 Start-End 21400 21500   time taken in seconds:  115.18873763084412
+block number:  215 Start-End 21500 21600   time taken in seconds:  108.88731932640076
+block number:  216 Start-End 21600 21700   time taken in seconds:  109.8130578994751
+block number:  217 Start-End 21700 21800   time taken in seconds:  100.70439195632935
+block number:  218 Start-End 21800 21900   time taken in seconds:  106.49326539039612
+block number:  219 Start-End 21900 22000   time taken in seconds:  109.92563319206238
+block number:  220 Start-End 22000 22100   time taken in seconds:  102.7879011631012
+block number:  221 Start-End 22100 22200   time taken in seconds:  113.78708791732788
+block number:  222 Start-End 22200 22300   time taken in seconds:  113.76633667945862
+block number:  223 Start-End 22300 22400   time taken in seconds:  108.5289556980133
+block number:  224 Start-End 22400 22500   time taken in seconds:  103.83083844184875
+block number:  225 Start-End 22500 22600   time taken in seconds:  106.23344445228577
+block number:  226 Start-End 22600 22700   time taken in seconds:  108.95896172523499
+block number:  227 Start-End 22700 22800   time taken in seconds:  110.81335234642029
+block number:  228 Start-End 22800 22900   time taken in seconds:  108.5585732460022
+block number:  229 Start-End 22900 23000   time taken in seconds:  106.02287435531616
+block number:  230 Start-End 23000 23100   time taken in seconds:  112.18792963027954
+block number:  231 Start-End 23100 23200   time taken in seconds:  113.10174703598022
+block number:  232 Start-End 23200 23300   time taken in seconds:  108.44780421257019
+block number:  233 Start-End 23300 23400   time taken in seconds:  113.06323337554932
+block number:  234 Start-End 23400 23500   time taken in seconds:  107.24420022964478
+block number:  235 Start-End 23500 23600   time taken in seconds:  111.00369691848755
+block number:  236 Start-End 23600 23700   time taken in seconds:  115.96166968345642
+block number:  237 Start-End 23700 23800   time taken in seconds:  111.8830201625824
+block number:  238 Start-End 23800 23900   time taken in seconds:  108.29921531677246
+block number:  239 Start-End 23900 24000   time taken in seconds:  106.5449230670929
+block number:  240 Start-End 24000 24100   time taken in seconds:  114.10800957679749
+block number:  241 Start-End 24100 24200   time taken in seconds:  105.2491340637207
+block number:  242 Start-End 24200 24300   time taken in seconds:  106.29133820533752
+block number:  243 Start-End 24300 24400   time taken in seconds:  113.30585837364197
+block number:  244 Start-End 24400 24500   time taken in seconds:  111.05772161483765
+block number:  245 Start-End 24500 24600   time taken in seconds:  113.57807302474976
+block number:  246 Start-End 24600 24700   time taken in seconds:  111.77545142173767
+block number:  247 Start-End 24700 24800   time taken in seconds:  111.53245902061462
+block number:  248 Start-End 24800 24900   time taken in seconds:  109.23323655128479
+block number:  249 Start-End 24900 25000   time taken in seconds:  108.58552432060242
+block number:  250 Start-End 25000 25100   time taken in seconds:  115.15808892250061
+block number:  251 Start-End 25100 25200   time taken in seconds:  103.11956858634949
+block number:  252 Start-End 25200 25300   time taken in seconds:  111.17911696434021
+block number:  253 Start-End 25300 25400   time taken in seconds:  114.40244555473328
+block number:  254 Start-End 25400 25500   time taken in seconds:  115.69871616363525
+block number:  255 Start-End 25500 25600   time taken in seconds:  101.43547987937927
+block number:  256 Start-End 25600 25700   time taken in seconds:  102.89492869377136
+block number:  257 Start-End 25700 25800   time taken in seconds:  106.27047967910767
+block number:  258 Start-End 25800 25900   time taken in seconds:  107.59425711631775
+block number:  259 Start-End 25900 26000   time taken in seconds:  119.30712413787842
+block number:  260 Start-End 26000 26100   time taken in seconds:  107.62101936340332
+block number:  261 Start-End 26100 26200   time taken in seconds:  109.04063773155212
+block number:  262 Start-End 26200 26300   time taken in seconds:  113.24526381492615
+block number:  263 Start-End 26300 26400   time taken in seconds:  104.03662633895874
+block number:  264 Start-End 26400 26500   time taken in seconds:  105.28767538070679
+block number:  265 Start-End 26500 26600   time taken in seconds:  116.30979228019714
+block number:  266 Start-End 26600 26700   time taken in seconds:  114.2070643901825
+block number:  267 Start-End 26700 26800   time taken in seconds:  108.3885281085968
+block number:  268 Start-End 26800 26900   time taken in seconds:  113.02035856246948
+block number:  269 Start-End 26900 27000   time taken in seconds:  103.77811813354492
+block number:  270 Start-End 27000 27100   time taken in seconds:  112.09999585151672
+block number:  271 Start-End 27100 27200   time taken in seconds:  110.84244894981384
+block number:  272 Start-End 27200 27300   time taken in seconds:  108.98298859596252
+block number:  273 Start-End 27300 27400   time taken in seconds:  108.4810836315155
+block number:  274 Start-End 27400 27500   time taken in seconds:  106.39623069763184
+block number:  275 Start-End 27500 27600   time taken in seconds:  107.73847436904907
+block number:  276 Start-End 27600 27700   time taken in seconds:  106.4631450176239
+block number:  277 Start-End 27700 27800   time taken in seconds:  108.96551060676575
+block number:  278 Start-End 27800 27900   time taken in seconds:  109.79992651939392
+block number:  279 Start-End 27900 28000   time taken in seconds:  111.587233543396
+block number:  280 Start-End 28000 28100   time taken in seconds:  108.54753875732422
+block number:  281 Start-End 28100 28200   time taken in seconds:  105.24537014961243
+block number:  282 Start-End 28200 28300   time taken in seconds:  104.77597951889038
+block number:  283 Start-End 28300 28400   time taken in seconds:  105.37811636924744
+block number:  284 Start-End 28400 28500   time taken in seconds:  111.53418350219727
+block number:  285 Start-End 28500 28600   time taken in seconds:  105.74226450920105
+block number:  286 Start-End 28600 28700   time taken in seconds:  109.0764422416687
+block number:  287 Start-End 28700 28800   time taken in seconds:  106.85780644416809
+block number:  288 Start-End 28800 28900   time taken in seconds:  109.03816509246826
+block number:  289 Start-End 28900 29000   time taken in seconds:  110.98401212692261
+block number:  290 Start-End 29000 29100   time taken in seconds:  108.59798741340637
+block number:  291 Start-End 29100 29200   time taken in seconds:  104.08347582817078
+block number:  292 Start-End 29200 29300   time taken in seconds:  106.11384224891663
+block number:  293 Start-End 29300 29400   time taken in seconds:  107.200199842453
+block number:  294 Start-End 29400 29500   time taken in seconds:  105.84443163871765
+block number:  295 Start-End 29500 29600   time taken in seconds:  109.82244372367859
+block number:  296 Start-End 29600 29700   time taken in seconds:  106.32050681114197
+block number:  297 Start-End 29700 29800   time taken in seconds:  106.56694221496582
+block number:  298 Start-End 29800 29900   time taken in seconds:  110.21385598182678
+block number:  299 Start-End 29900 30000   time taken in seconds:  107.00749778747559
+block number:  300 Start-End 30000 30100   time taken in seconds:  108.33059024810791
+block number:  301 Start-End 30100 30200   time taken in seconds:  105.03372955322266
+block number:  302 Start-End 30200 30300   time taken in seconds:  112.45773935317993
+block number:  303 Start-End 30300 30400   time taken in seconds:  109.85043478012085
+block number:  304 Start-End 30400 30500   time taken in seconds:  102.01372718811035
+block number:  305 Start-End 30500 30600   time taken in seconds:  110.6133885383606
+block number:  306 Start-End 30600 30700   time taken in seconds:  103.54931735992432
+block number:  307 Start-End 30700 30800   time taken in seconds:  105.86989974975586
+block number:  308 Start-End 30800 30900   time taken in seconds:  117.6760766506195
+block number:  309 Start-End 30900 31000   time taken in seconds:  105.10278367996216
+block number:  310 Start-End 31000 31100   time taken in seconds:  100.02782678604126
+block number:  311 Start-End 31100 31200   time taken in seconds:  105.59540486335754
+block number:  312 Start-End 31200 31300   time taken in seconds:  107.55482292175293
+block number:  313 Start-End 31300 31400   time taken in seconds:  105.55221319198608
+block number:  314 Start-End 31400 31500   time taken in seconds:  113.5940797328949
+block number:  315 Start-End 31500 31600   time taken in seconds:  112.54407000541687
+block number:  316 Start-End 31600 31700   time taken in seconds:  107.6491687297821
+block number:  317 Start-End 31700 31800   time taken in seconds:  108.77092432975769
+block number:  318 Start-End 31800 31900   time taken in seconds:  103.45799779891968
+block number:  319 Start-End 31900 32000   time taken in seconds:  110.12198328971863
+block number:  320 Start-End 32000 32100   time taken in seconds:  108.33449459075928
+block number:  321 Start-End 32100 32200   time taken in seconds:  105.63585901260376
+block number:  322 Start-End 32200 32300   time taken in seconds:  107.50635099411011
+block number:  323 Start-End 32300 32400   time taken in seconds:  108.52909851074219
+block number:  324 Start-End 32400 32500   time taken in seconds:  111.24621391296387
+block number:  325 Start-End 32500 32600   time taken in seconds:  109.71597576141357
+block number:  326 Start-End 32600 32700   time taken in seconds:  107.31339454650879
+block number:  327 Start-End 32700 32800   time taken in seconds:  108.75949263572693
+block number:  328 Start-End 32800 32900   time taken in seconds:  111.6685619354248
+block number:  329 Start-End 32900 33000   time taken in seconds:  109.60145568847656
+block number:  330 Start-End 33000 33100   time taken in seconds:  103.33730936050415
+block number:  331 Start-End 33100 33200   time taken in seconds:  113.94737243652344
+block number:  332 Start-End 33200 33300   time taken in seconds:  110.50482273101807
+block number:  333 Start-End 33300 33400   time taken in seconds:  108.41846513748169
+block number:  334 Start-End 33400 33500   time taken in seconds:  105.17659115791321
+block number:  335 Start-End 33500 33600   time taken in seconds:  106.11659669876099
+block number:  336 Start-End 33600 33700   time taken in seconds:  106.53358364105225
+block number:  337 Start-End 33700 33800   time taken in seconds:  104.87478756904602
+block number:  338 Start-End 33800 33900   time taken in seconds:  103.04768538475037
+block number:  339 Start-End 33900 34000   time taken in seconds:  113.12540602684021
+block number:  340 Start-End 34000 34100   time taken in seconds:  106.11412858963013
+block number:  341 Start-End 34100 34200   time taken in seconds:  106.69894480705261
+block number:  342 Start-End 34200 34300   time taken in seconds:  106.77027559280396
+block number:  343 Start-End 34300 34400   time taken in seconds:  107.67080521583557
+block number:  344 Start-End 34400 34500   time taken in seconds:  110.95562767982483
+block number:  345 Start-End 34500 34600   time taken in seconds:  113.22785806655884
+block number:  346 Start-End 34600 34700   time taken in seconds:  108.85325217247009
+block number:  347 Start-End 34700 34800   time taken in seconds:  105.48784637451172
+block number:  348 Start-End 34800 34900   time taken in seconds:  110.11021304130554
+block number:  349 Start-End 34900 35000   time taken in seconds:  104.61705207824707
+block number:  350 Start-End 35000 35100   time taken in seconds:  112.97506284713745
+block number:  351 Start-End 35100 35200   time taken in seconds:  100.45458030700684
+block number:  352 Start-End 35200 35300   time taken in seconds:  103.00567841529846
+block number:  353 Start-End 35300 35400   time taken in seconds:  108.28936052322388
+block number:  354 Start-End 35400 35500   time taken in seconds:  110.01362633705139
+block number:  355 Start-End 35500 35600   time taken in seconds:  108.30741453170776
+block number:  356 Start-End 35600 35700   time taken in seconds:  110.37780952453613
+block number:  357 Start-End 35700 35800   time taken in seconds:  108.72404408454895
+block number:  358 Start-End 35800 35900   time taken in seconds:  105.50130414962769
+block number:  359 Start-End 35900 36000   time taken in seconds:  111.75296068191528
+block number:  360 Start-End 36000 36100   time taken in seconds:  106.51917481422424
+block number:  361 Start-End 36100 36200   time taken in seconds:  104.76849436759949
+block number:  362 Start-End 36200 36300   time taken in seconds:  113.18345999717712
+block number:  363 Start-End 36300 36400   time taken in seconds:  106.28267621994019
+block number:  364 Start-End 36400 36500   time taken in seconds:  106.6890778541565
+block number:  365 Start-End 36500 36600   time taken in seconds:  111.41832566261292
+block number:  366 Start-End 36600 36700   time taken in seconds:  104.38017058372498
+block number:  367 Start-End 36700 36800   time taken in seconds:  109.7484438419342
+block number:  368 Start-End 36800 36900   time taken in seconds:  103.40286660194397
+block number:  369 Start-End 36900 37000   time taken in seconds:  108.88217425346375
+block number:  370 Start-End 37000 37100   time taken in seconds:  115.46231842041016
+block number:  371 Start-End 37100 37200   time taken in seconds:  108.88277053833008
+block number:  372 Start-End 37200 37300   time taken in seconds:  109.08329129219055
+block number:  373 Start-End 37300 37400   time taken in seconds:  119.52364611625671
+block number:  374 Start-End 37400 37500   time taken in seconds:  107.77534985542297
+block number:  375 Start-End 37500 37600   time taken in seconds:  111.80353617668152
+block number:  376 Start-End 37600 37700   time taken in seconds:  106.74418377876282
+block number:  377 Start-End 37700 37800   time taken in seconds:  106.13376379013062
+block number:  378 Start-End 37800 37900   time taken in seconds:  102.55034041404724
+block number:  379 Start-End 37900 38000   time taken in seconds:  111.72910070419312
+block number:  380 Start-End 38000 38100   time taken in seconds:  106.33574891090393
+block number:  381 Start-End 38100 38200   time taken in seconds:  110.17989778518677
+block number:  382 Start-End 38200 38300   time taken in seconds:  112.48182964324951
+block number:  383 Start-End 38300 38400   time taken in seconds:  108.73257279396057
+block number:  384 Start-End 38400 38500   time taken in seconds:  107.33148050308228
+block number:  385 Start-End 38500 38600   time taken in seconds:  112.77319931983948
+block number:  386 Start-End 38600 38700   time taken in seconds:  106.5965883731842
+block number:  387 Start-End 38700 38800   time taken in seconds:  118.56355905532837
+block number:  388 Start-End 38800 38900   time taken in seconds:  106.3886468410492
+block number:  389 Start-End 38900 39000   time taken in seconds:  106.47409343719482
+block number:  390 Start-End 39000 39100   time taken in seconds:  113.35552287101746
+block number:  391 Start-End 39100 39200   time taken in seconds:  107.22262620925903
+block number:  392 Start-End 39200 39300   time taken in seconds:  108.64623713493347
+block number:  393 Start-End 39300 39400   time taken in seconds:  105.59702587127686
+block number:  394 Start-End 39400 39500   time taken in seconds:  109.14808630943298
+block number:  395 Start-End 39500 39600   time taken in seconds:  104.75992560386658
+block number:  396 Start-End 39600 39700   time taken in seconds:  107.40322852134705
+block number:  397 Start-End 39700 39800   time taken in seconds:  106.63217210769653
+block number:  398 Start-End 39800 39900   time taken in seconds:  106.63579773902893
+block number:  399 Start-End 39900 40000   time taken in seconds:  110.7200779914856
+block number:  400 Start-End 40000 40100   time taken in seconds:  108.06464910507202
+block number:  401 Start-End 40100 40200   time taken in seconds:  104.76631212234497
+block number:  402 Start-End 40200 40300   time taken in seconds:  111.58829641342163
+block number:  403 Start-End 40300 40400   time taken in seconds:  114.0075569152832
+block number:  404 Start-End 40400 40500   time taken in seconds:  110.59765934944153
+block number:  405 Start-End 40500 40600   time taken in seconds:  107.546071767807
+block number:  406 Start-End 40600 40700   time taken in seconds:  106.45264768600464
+block number:  407 Start-End 40700 40800   time taken in seconds:  108.58305358886719
+block number:  408 Start-End 40800 40900   time taken in seconds:  111.490309715271
+block number:  409 Start-End 40900 41000   time taken in seconds:  106.21958804130554
+block number:  410 Start-End 41000 41100   time taken in seconds:  111.05023503303528
+block number:  411 Start-End 41100 41200   time taken in seconds:  110.97181463241577
+block number:  412 Start-End 41200 41300   time taken in seconds:  106.67903470993042
+block number:  413 Start-End 41300 41400   time taken in seconds:  113.39756870269775
+block number:  414 Start-End 41400 41500   time taken in seconds:  106.33985543251038
+block number:  415 Start-End 41500 41600   time taken in seconds:  107.12081456184387
+block number:  416 Start-End 41600 41700   time taken in seconds:  114.7816104888916
+block number:  417 Start-End 41700 41800   time taken in seconds:  109.60178565979004
+block number:  418 Start-End 41800 41900   time taken in seconds:  116.86485505104065
+block number:  419 Start-End 41900 42000   time taken in seconds:  104.75265264511108
+block number:  420 Start-End 42000 42100   time taken in seconds:  108.47351932525635
+block number:  421 Start-End 42100 42200   time taken in seconds:  110.70508193969727
+block number:  422 Start-End 42200 42300   time taken in seconds:  112.59754514694214
+block number:  423 Start-End 42300 42400   time taken in seconds:  106.02186179161072
+block number:  424 Start-End 42400 42500   time taken in seconds:  115.66049551963806
+block number:  425 Start-End 42500 42600   time taken in seconds:  108.12929797172546
+block number:  426 Start-End 42600 42700   time taken in seconds:  111.11243319511414
+block number:  427 Start-End 42700 42800   time taken in seconds:  106.04369020462036
+block number:  428 Start-End 42800 42900   time taken in seconds:  114.51528930664062
+block number:  429 Start-End 42900 43000   time taken in seconds:  103.30091500282288
+block number:  430 Start-End 43000 43100   time taken in seconds:  111.30077266693115
+block number:  431 Start-End 43100 43200   time taken in seconds:  109.70560646057129
+block number:  432 Start-End 43200 43300   time taken in seconds:  109.98090815544128
+block number:  433 Start-End 43300 43400   time taken in seconds:  107.7725019454956
+block number:  434 Start-End 43400 43500   time taken in seconds:  110.89242744445801
+block number:  435 Start-End 43500 43600   time taken in seconds:  106.22442197799683
+block number:  436 Start-End 43600 43700   time taken in seconds:  103.4672737121582
+block number:  437 Start-End 43700 43800   time taken in seconds:  103.89528822898865
+block number:  438 Start-End 43800 43900   time taken in seconds:  104.04673147201538
+block number:  439 Start-End 43900 44000   time taken in seconds:  104.08262133598328
+block number:  440 Start-End 44000 44100   time taken in seconds:  110.14766883850098
+block number:  441 Start-End 44100 44200   time taken in seconds:  104.15796375274658
+block number:  442 Start-End 44200 44300   time taken in seconds:  109.19802761077881
+block number:  443 Start-End 44300 44400   time taken in seconds:  108.67094159126282
+block number:  444 Start-End 44400 44500   time taken in seconds:  110.9232006072998
+block number:  445 Start-End 44500 44600   time taken in seconds:  114.3304615020752
+block number:  446 Start-End 44600 44700   time taken in seconds:  111.35115098953247
+block number:  447 Start-End 44700 44800   time taken in seconds:  109.5165491104126
+block number:  448 Start-End 44800 44900   time taken in seconds:  107.19943118095398
+block number:  449 Start-End 44900 45000   time taken in seconds:  113.13968563079834
+block number:  450 Start-End 45000 45100   time taken in seconds:  108.55397439002991
+block number:  451 Start-End 45100 45200   time taken in seconds:  114.9342668056488
+block number:  452 Start-End 45200 45300   time taken in seconds:  107.1950261592865
+block number:  453 Start-End 45300 45400   time taken in seconds:  108.87721347808838
+block number:  454 Start-End 45400 45500   time taken in seconds:  109.65089845657349
+block number:  455 Start-End 45500 45600   time taken in seconds:  109.95232963562012
+block number:  456 Start-End 45600 45700   time taken in seconds:  111.34573483467102
+block number:  457 Start-End 45700 45800   time taken in seconds:  110.74538516998291
+block number:  458 Start-End 45800 45900   time taken in seconds:  113.03794360160828
+block number:  459 Start-End 45900 46000   time taken in seconds:  110.23166918754578
+block number:  460 Start-End 46000 46100   time taken in seconds:  108.80885434150696
+block number:  461 Start-End 46100 46200   time taken in seconds:  101.26080679893494
+block number:  462 Start-End 46200 46300   time taken in seconds:  106.21652317047119
+block number:  463 Start-End 46300 46400   time taken in seconds:  113.09680485725403
+block number:  464 Start-End 46400 46500   time taken in seconds:  115.68589496612549
+block number:  465 Start-End 46500 46600   time taken in seconds:  105.100821018219
+block number:  466 Start-End 46600 46700   time taken in seconds:  109.63582921028137
+block number:  467 Start-End 46700 46800   time taken in seconds:  115.82752203941345
+block number:  468 Start-End 46800 46900   time taken in seconds:  107.33230686187744
+block number:  469 Start-End 46900 47000   time taken in seconds:  104.71082019805908
+block number:  470 Start-End 47000 47100   time taken in seconds:  108.08751702308655
+block number:  471 Start-End 47100 47200   time taken in seconds:  113.28501152992249
+block number:  472 Start-End 47200 47300   time taken in seconds:  105.31254553794861
+block number:  473 Start-End 47300 47400   time taken in seconds:  104.14457821846008
+block number:  474 Start-End 47400 47500   time taken in seconds:  105.23092818260193
+block number:  475 Start-End 47500 47600   time taken in seconds:  106.83411836624146
+block number:  476 Start-End 47600 47700   time taken in seconds:  115.00168037414551
+block number:  477 Start-End 47700 47800   time taken in seconds:  112.0800428390503
+block number:  478 Start-End 47800 47900   time taken in seconds:  112.41616129875183
+block number:  479 Start-End 47900 48000   time taken in seconds:  104.69711709022522
+block number:  480 Start-End 48000 48100   time taken in seconds:  116.70047497749329
+block number:  481 Start-End 48100 48200   time taken in seconds:  105.99196124076843
+block number:  482 Start-End 48200 48300   time taken in seconds:  115.8378918170929
+block number:  483 Start-End 48300 48400   time taken in seconds:  109.94677305221558
+block number:  484 Start-End 48400 48500   time taken in seconds:  108.1136155128479
+block number:  485 Start-End 48500 48600   time taken in seconds:  111.52630686759949
+block number:  486 Start-End 48600 48700   time taken in seconds:  111.32201147079468
+block number:  487 Start-End 48700 48800   time taken in seconds:  103.88075256347656
+block number:  488 Start-End 48800 48900   time taken in seconds:  115.88402009010315
+block number:  489 Start-End 48900 49000   time taken in seconds:  118.101811170578
+block number:  490 Start-End 49000 49100   time taken in seconds:  113.08969354629517
+block number:  491 Start-End 49100 49200   time taken in seconds:  104.95932912826538
+block number:  492 Start-End 49200 49300   time taken in seconds:  114.02335691452026
+block number:  493 Start-End 49300 49400   time taken in seconds:  105.07975053787231
+block number:  494 Start-End 49400 49500   time taken in seconds:  110.33980345726013
+block number:  495 Start-End 49500 49600   time taken in seconds:  103.6273946762085
+block number:  496 Start-End 49600 49700   time taken in seconds:  107.24360966682434
+block number:  497 Start-End 49700 49800   time taken in seconds:  109.29561138153076
+block number:  498 Start-End 49800 49900   time taken in seconds:  106.57381582260132
+block number:  499 Start-End 49900 50000   time taken in seconds:  108.84492826461792
+block number:  500 Start-End 50000 50100   time taken in seconds:  107.06568217277527
+block number:  501 Start-End 50100 50200   time taken in seconds:  110.34716629981995
+block number:  502 Start-End 50200 50300   time taken in seconds:  103.86758494377136
+block number:  503 Start-End 50300 50400   time taken in seconds:  106.6216287612915
+block number:  504 Start-End 50400 50500   time taken in seconds:  109.46750116348267
+block number:  505 Start-End 50500 50600   time taken in seconds:  111.68828535079956
+block number:  506 Start-End 50600 50700   time taken in seconds:  109.06342077255249
+block number:  507 Start-End 50700 50800   time taken in seconds:  110.72549104690552
+block number:  508 Start-End 50800 50900   time taken in seconds:  114.2186291217804
+block number:  509 Start-End 50900 51000   time taken in seconds:  108.48525977134705
+block number:  510 Start-End 51000 51100   time taken in seconds:  105.99003505706787
+block number:  511 Start-End 51100 51200   time taken in seconds:  107.4997398853302
+block number:  512 Start-End 51200 51300   time taken in seconds:  113.03288340568542
+block number:  513 Start-End 51300 51400   time taken in seconds:  103.55455946922302
+block number:  514 Start-End 51400 51500   time taken in seconds:  113.21669554710388
+block number:  515 Start-End 51500 51600   time taken in seconds:  109.00451946258545
+block number:  516 Start-End 51600 51700   time taken in seconds:  108.14231896400452
+block number:  517 Start-End 51700 51800   time taken in seconds:  103.80590057373047
+block number:  518 Start-End 51800 51900   time taken in seconds:  101.09128975868225
+block number:  519 Start-End 51900 52000   time taken in seconds:  112.21478509902954
+block number:  520 Start-End 52000 52100   time taken in seconds:  116.37469911575317
+block number:  521 Start-End 52100 52200   time taken in seconds:  112.0753562450409
+block number:  522 Start-End 52200 52300   time taken in seconds:  111.86848568916321
+block number:  523 Start-End 52300 52400   time taken in seconds:  107.60148644447327
+block number:  524 Start-End 52400 52500   time taken in seconds:  112.1976969242096
+block number:  525 Start-End 52500 52600   time taken in seconds:  107.92364168167114
+block number:  526 Start-End 52600 52700   time taken in seconds:  108.0091814994812
+block number:  527 Start-End 52700 52800   time taken in seconds:  104.09881377220154
+block number:  528 Start-End 52800 52900   time taken in seconds:  107.78566718101501
+block number:  529 Start-End 52900 53000   time taken in seconds:  111.31465268135071
+block number:  530 Start-End 53000 53100   time taken in seconds:  107.04035925865173
+block number:  531 Start-End 53100 53200   time taken in seconds:  106.97309017181396
+block number:  532 Start-End 53200 53300   time taken in seconds:  113.68316864967346
+block number:  533 Start-End 53300 53400   time taken in seconds:  112.1548523902893
+block number:  534 Start-End 53400 53500   time taken in seconds:  110.25406837463379
+block number:  535 Start-End 53500 53600   time taken in seconds:  109.07127475738525
+block number:  536 Start-End 53600 53700   time taken in seconds:  109.1550076007843
+block number:  537 Start-End 53700 53800   time taken in seconds:  113.54542922973633
+block number:  538 Start-End 53800 53900   time taken in seconds:  106.52235865592957
+block number:  539 Start-End 53900 54000   time taken in seconds:  102.2616937160492
+block number:  540 Start-End 54000 54100   time taken in seconds:  113.59911847114563
+block number:  541 Start-End 54100 54200   time taken in seconds:  112.37062859535217
+block number:  542 Start-End 54200 54300   time taken in seconds:  107.08966898918152
+block number:  543 Start-End 54300 54400   time taken in seconds:  111.44278264045715
+block number:  544 Start-End 54400 54500   time taken in seconds:  110.45601963996887
+block number:  545 Start-End 54500 54600   time taken in seconds:  106.25697135925293
+block number:  546 Start-End 54600 54700   time taken in seconds:  115.83249020576477
+block number:  547 Start-End 54700 54800   time taken in seconds:  108.54421353340149
+block number:  548 Start-End 54800 54900   time taken in seconds:  110.97102689743042
+block number:  549 Start-End 54900 55000   time taken in seconds:  110.95531511306763
+block number:  550 Start-End 55000 55100   time taken in seconds:  103.58881402015686
+block number:  551 Start-End 55100 55200   time taken in seconds:  110.15990972518921
+block number:  552 Start-End 55200 55300   time taken in seconds:  115.68943738937378
+block number:  553 Start-End 55300 55400   time taken in seconds:  106.45620489120483
+block number:  554 Start-End 55400 55500   time taken in seconds:  109.12832760810852
+block number:  555 Start-End 55500 55600   time taken in seconds:  109.37234997749329
+block number:  556 Start-End 55600 55700   time taken in seconds:  110.67852663993835
+block number:  557 Start-End 55700 55800   time taken in seconds:  108.82313537597656
+block number:  558 Start-End 55800 55900   time taken in seconds:  105.66872215270996
+block number:  559 Start-End 55900 56000   time taken in seconds:  105.57481694221497
+block number:  560 Start-End 56000 56100   time taken in seconds:  108.44278955459595
+block number:  561 Start-End 56100 56200   time taken in seconds:  110.9912748336792
+block number:  562 Start-End 56200 56300   time taken in seconds:  105.87437391281128
+block number:  563 Start-End 56300 56400   time taken in seconds:  103.06566333770752
+block number:  564 Start-End 56400 56500   time taken in seconds:  110.3870050907135
+block number:  565 Start-End 56500 56600   time taken in seconds:  110.23539543151855
+block number:  566 Start-End 56600 56700   time taken in seconds:  108.41676354408264
+block number:  567 Start-End 56700 None   time taken in seconds:  53.85772943496704
+Number of samples after bg: 630 
+Number of temp files written 644
+(192, 60, 10, 20) 0 out of  644
+(191, 60, 10, 20) 1 out of  644
+(179, 60, 10, 20) 2 out of  644
+(173, 60, 10, 20) 3 out of  644
+(181, 60, 10, 20) 4 out of  644
+(196, 60, 10, 20) 5 out of  644
+(182, 60, 10, 20) 6 out of  644
+(192, 60, 10, 20) 7 out of  644
+(179, 60, 10, 20) 8 out of  644
+(212, 60, 10, 20) 9 out of  644
+(196, 60, 10, 20) 10 out of  644
+(198, 60, 10, 20) 11 out of  644
+(157, 60, 10, 20) 12 out of  644
+(184, 60, 10, 20) 13 out of  644
+(188, 60, 10, 20) 14 out of  644
+(184, 60, 10, 20) 15 out of  644
+(190, 60, 10, 20) 16 out of  644
+(198, 60, 10, 20) 17 out of  644
+(161, 60, 10, 20) 18 out of  644
+(177, 60, 10, 20) 19 out of  644
+(175, 60, 10, 20) 20 out of  644
+(189, 60, 10, 20) 21 out of  644
+(185, 60, 10, 20) 22 out of  644
+(186, 60, 10, 20) 23 out of  644
+(182, 60, 10, 20) 24 out of  644
+(191, 60, 10, 20) 25 out of  644
+(182, 60, 10, 20) 26 out of  644
+(184, 60, 10, 20) 27 out of  644
+(185, 60, 10, 20) 28 out of  644
+(170, 60, 10, 20) 29 out of  644
+(207, 60, 10, 20) 30 out of  644
+(187, 60, 10, 20) 31 out of  644
+(215, 60, 10, 20) 32 out of  644
+(197, 60, 10, 20) 33 out of  644
+(180, 60, 10, 20) 34 out of  644
+(182, 60, 10, 20) 35 out of  644
+(200, 60, 10, 20) 36 out of  644
+(190, 60, 10, 20) 37 out of  644
+(211, 60, 10, 20) 38 out of  644
+(211, 60, 10, 20) 39 out of  644
+(187, 60, 10, 20) 40 out of  644
+(188, 60, 10, 20) 41 out of  644
+(200, 60, 10, 20) 42 out of  644
+(154, 60, 10, 20) 43 out of  644
+(170, 60, 10, 20) 44 out of  644
+(187, 60, 10, 20) 45 out of  644
+(186, 60, 10, 20) 46 out of  644
+(171, 60, 10, 20) 47 out of  644
+(190, 60, 10, 20) 48 out of  644
+(198, 60, 10, 20) 49 out of  644
+(199, 60, 10, 20) 50 out of  644
+(195, 60, 10, 20) 51 out of  644
+(167, 60, 10, 20) 52 out of  644
+(212, 60, 10, 20) 53 out of  644
+(196, 60, 10, 20) 54 out of  644
+(188, 60, 10, 20) 55 out of  644
+(182, 60, 10, 20) 56 out of  644
+(174, 60, 10, 20) 57 out of  644
+(207, 60, 10, 20) 58 out of  644
+(193, 60, 10, 20) 59 out of  644
+(153, 60, 10, 20) 60 out of  644
+(192, 60, 10, 20) 61 out of  644
+(206, 60, 10, 20) 62 out of  644
+(166, 60, 10, 20) 63 out of  644
+(181, 60, 10, 20) 64 out of  644
+(167, 60, 10, 20) 65 out of  644
+(184, 60, 10, 20) 66 out of  644
+(185, 60, 10, 20) 67 out of  644
+(175, 60, 10, 20) 68 out of  644
+(206, 60, 10, 20) 69 out of  644
+(213, 60, 10, 20) 70 out of  644
+(190, 60, 10, 20) 71 out of  644
+(170, 60, 10, 20) 72 out of  644
+(195, 60, 10, 20) 73 out of  644
+(159, 60, 10, 20) 74 out of  644
+(190, 60, 10, 20) 75 out of  644
+(1271, 60, 10, 20) 76 out of  644
+(1304, 60, 10, 20) 77 out of  644
+(1292, 60, 10, 20) 78 out of  644
+(1287, 60, 10, 20) 79 out of  644
+(1235, 60, 10, 20) 80 out of  644
+(1290, 60, 10, 20) 81 out of  644
+(1236, 60, 10, 20) 82 out of  644
+(1258, 60, 10, 20) 83 out of  644
+(1235, 60, 10, 20) 84 out of  644
+(1263, 60, 10, 20) 85 out of  644
+(1317, 60, 10, 20) 86 out of  644
+(1311, 60, 10, 20) 87 out of  644
+(1384, 60, 10, 20) 88 out of  644
+(1310, 60, 10, 20) 89 out of  644
+(1307, 60, 10, 20) 90 out of  644
+(1266, 60, 10, 20) 91 out of  644
+(1260, 60, 10, 20) 92 out of  644
+(1277, 60, 10, 20) 93 out of  644
+(1258, 60, 10, 20) 94 out of  644
+(1322, 60, 10, 20) 95 out of  644
+(1288, 60, 10, 20) 96 out of  644
+(1343, 60, 10, 20) 97 out of  644
+(1246, 60, 10, 20) 98 out of  644
+(1254, 60, 10, 20) 99 out of  644
+(1277, 60, 10, 20) 100 out of  644
+(1325, 60, 10, 20) 101 out of  644
+(1327, 60, 10, 20) 102 out of  644
+(1235, 60, 10, 20) 103 out of  644
+(1296, 60, 10, 20) 104 out of  644
+(1235, 60, 10, 20) 105 out of  644
+(1266, 60, 10, 20) 106 out of  644
+(1292, 60, 10, 20) 107 out of  644
+(1256, 60, 10, 20) 108 out of  644
+(1326, 60, 10, 20) 109 out of  644
+(1257, 60, 10, 20) 110 out of  644
+(1276, 60, 10, 20) 111 out of  644
+(1345, 60, 10, 20) 112 out of  644
+(1281, 60, 10, 20) 113 out of  644
+(1246, 60, 10, 20) 114 out of  644
+(1205, 60, 10, 20) 115 out of  644
+(1296, 60, 10, 20) 116 out of  644
+(1265, 60, 10, 20) 117 out of  644
+(1283, 60, 10, 20) 118 out of  644
+(1282, 60, 10, 20) 119 out of  644
+(1257, 60, 10, 20) 120 out of  644
+(1379, 60, 10, 20) 121 out of  644
+(1222, 60, 10, 20) 122 out of  644
+(1297, 60, 10, 20) 123 out of  644
+(1268, 60, 10, 20) 124 out of  644
+(1212, 60, 10, 20) 125 out of  644
+(1254, 60, 10, 20) 126 out of  644
+(1300, 60, 10, 20) 127 out of  644
+(1293, 60, 10, 20) 128 out of  644
+(1317, 60, 10, 20) 129 out of  644
+(1259, 60, 10, 20) 130 out of  644
+(1228, 60, 10, 20) 131 out of  644
+(1205, 60, 10, 20) 132 out of  644
+(1276, 60, 10, 20) 133 out of  644
+(1302, 60, 10, 20) 134 out of  644
+(1290, 60, 10, 20) 135 out of  644
+(1247, 60, 10, 20) 136 out of  644
+(1322, 60, 10, 20) 137 out of  644
+(1257, 60, 10, 20) 138 out of  644
+(1264, 60, 10, 20) 139 out of  644
+(1321, 60, 10, 20) 140 out of  644
+(1274, 60, 10, 20) 141 out of  644
+(1264, 60, 10, 20) 142 out of  644
+(1290, 60, 10, 20) 143 out of  644
+(1219, 60, 10, 20) 144 out of  644
+(1232, 60, 10, 20) 145 out of  644
+(1342, 60, 10, 20) 146 out of  644
+(1270, 60, 10, 20) 147 out of  644
+(1241, 60, 10, 20) 148 out of  644
+(1206, 60, 10, 20) 149 out of  644
+(1365, 60, 10, 20) 150 out of  644
+(1234, 60, 10, 20) 151 out of  644
+(1331, 60, 10, 20) 152 out of  644
+(1303, 60, 10, 20) 153 out of  644
+(1274, 60, 10, 20) 154 out of  644
+(1258, 60, 10, 20) 155 out of  644
+(1291, 60, 10, 20) 156 out of  644
+(1268, 60, 10, 20) 157 out of  644
+(1242, 60, 10, 20) 158 out of  644
+(1268, 60, 10, 20) 159 out of  644
+(1258, 60, 10, 20) 160 out of  644
+(1306, 60, 10, 20) 161 out of  644
+(1258, 60, 10, 20) 162 out of  644
+(1287, 60, 10, 20) 163 out of  644
+(1278, 60, 10, 20) 164 out of  644
+(1262, 60, 10, 20) 165 out of  644
+(1307, 60, 10, 20) 166 out of  644
+(1327, 60, 10, 20) 167 out of  644
+(1288, 60, 10, 20) 168 out of  644
+(1258, 60, 10, 20) 169 out of  644
+(1279, 60, 10, 20) 170 out of  644
+(1230, 60, 10, 20) 171 out of  644
+(1291, 60, 10, 20) 172 out of  644
+(1266, 60, 10, 20) 173 out of  644
+(1330, 60, 10, 20) 174 out of  644
+(1303, 60, 10, 20) 175 out of  644
+(1237, 60, 10, 20) 176 out of  644
+(1344, 60, 10, 20) 177 out of  644
+(1271, 60, 10, 20) 178 out of  644
+(1205, 60, 10, 20) 179 out of  644
+(1293, 60, 10, 20) 180 out of  644
+(1272, 60, 10, 20) 181 out of  644
+(1232, 60, 10, 20) 182 out of  644
+(1289, 60, 10, 20) 183 out of  644
+(1343, 60, 10, 20) 184 out of  644
+(1287, 60, 10, 20) 185 out of  644
+(1268, 60, 10, 20) 186 out of  644
+(1234, 60, 10, 20) 187 out of  644
+(1223, 60, 10, 20) 188 out of  644
+(1242, 60, 10, 20) 189 out of  644
+(1310, 60, 10, 20) 190 out of  644
+(1312, 60, 10, 20) 191 out of  644
+(1334, 60, 10, 20) 192 out of  644
+(1256, 60, 10, 20) 193 out of  644
+(1200, 60, 10, 20) 194 out of  644
+(1281, 60, 10, 20) 195 out of  644
+(1278, 60, 10, 20) 196 out of  644
+(1268, 60, 10, 20) 197 out of  644
+(1259, 60, 10, 20) 198 out of  644
+(1335, 60, 10, 20) 199 out of  644
+(1316, 60, 10, 20) 200 out of  644
+(1287, 60, 10, 20) 201 out of  644
+(1272, 60, 10, 20) 202 out of  644
+(1273, 60, 10, 20) 203 out of  644
+(1261, 60, 10, 20) 204 out of  644
+(1247, 60, 10, 20) 205 out of  644
+(1232, 60, 10, 20) 206 out of  644
+(1225, 60, 10, 20) 207 out of  644
+(1274, 60, 10, 20) 208 out of  644
+(1316, 60, 10, 20) 209 out of  644
+(1273, 60, 10, 20) 210 out of  644
+(1220, 60, 10, 20) 211 out of  644
+(1237, 60, 10, 20) 212 out of  644
+(1275, 60, 10, 20) 213 out of  644
+(1268, 60, 10, 20) 214 out of  644
+(1292, 60, 10, 20) 215 out of  644
+(1270, 60, 10, 20) 216 out of  644
+(1209, 60, 10, 20) 217 out of  644
+(1222, 60, 10, 20) 218 out of  644
+(1314, 60, 10, 20) 219 out of  644
+(1258, 60, 10, 20) 220 out of  644
+(1272, 60, 10, 20) 221 out of  644
+(1286, 60, 10, 20) 222 out of  644
+(1256, 60, 10, 20) 223 out of  644
+(1304, 60, 10, 20) 224 out of  644
+(1340, 60, 10, 20) 225 out of  644
+(1234, 60, 10, 20) 226 out of  644
+(1314, 60, 10, 20) 227 out of  644
+(1219, 60, 10, 20) 228 out of  644
+(1356, 60, 10, 20) 229 out of  644
+(1300, 60, 10, 20) 230 out of  644
+(1312, 60, 10, 20) 231 out of  644
+(1272, 60, 10, 20) 232 out of  644
+(1345, 60, 10, 20) 233 out of  644
+(1234, 60, 10, 20) 234 out of  644
+(1287, 60, 10, 20) 235 out of  644
+(1311, 60, 10, 20) 236 out of  644
+(1258, 60, 10, 20) 237 out of  644
+(1312, 60, 10, 20) 238 out of  644
+(1211, 60, 10, 20) 239 out of  644
+(1323, 60, 10, 20) 240 out of  644
+(1245, 60, 10, 20) 241 out of  644
+(1234, 60, 10, 20) 242 out of  644
+(1298, 60, 10, 20) 243 out of  644
+(1260, 60, 10, 20) 244 out of  644
+(1227, 60, 10, 20) 245 out of  644
+(1321, 60, 10, 20) 246 out of  644
+(1268, 60, 10, 20) 247 out of  644
+(1193, 60, 10, 20) 248 out of  644
+(1241, 60, 10, 20) 249 out of  644
+(1226, 60, 10, 20) 250 out of  644
+(1231, 60, 10, 20) 251 out of  644
+(1264, 60, 10, 20) 252 out of  644
+(1246, 60, 10, 20) 253 out of  644
+(1262, 60, 10, 20) 254 out of  644
+(1252, 60, 10, 20) 255 out of  644
+(1321, 60, 10, 20) 256 out of  644
+(1291, 60, 10, 20) 257 out of  644
+(1271, 60, 10, 20) 258 out of  644
+(1278, 60, 10, 20) 259 out of  644
+(1292, 60, 10, 20) 260 out of  644
+(1283, 60, 10, 20) 261 out of  644
+(1293, 60, 10, 20) 262 out of  644
+(1275, 60, 10, 20) 263 out of  644
+(1263, 60, 10, 20) 264 out of  644
+(1315, 60, 10, 20) 265 out of  644
+(1188, 60, 10, 20) 266 out of  644
+(1285, 60, 10, 20) 267 out of  644
+(1290, 60, 10, 20) 268 out of  644
+(1300, 60, 10, 20) 269 out of  644
+(1241, 60, 10, 20) 270 out of  644
+(1262, 60, 10, 20) 271 out of  644
+(1253, 60, 10, 20) 272 out of  644
+(1274, 60, 10, 20) 273 out of  644
+(1315, 60, 10, 20) 274 out of  644
+(1214, 60, 10, 20) 275 out of  644
+(1218, 60, 10, 20) 276 out of  644
+(1397, 60, 10, 20) 277 out of  644
+(1316, 60, 10, 20) 278 out of  644
+(1285, 60, 10, 20) 279 out of  644
+(1301, 60, 10, 20) 280 out of  644
+(1289, 60, 10, 20) 281 out of  644
+(1325, 60, 10, 20) 282 out of  644
+(1332, 60, 10, 20) 283 out of  644
+(1262, 60, 10, 20) 284 out of  644
+(1235, 60, 10, 20) 285 out of  644
+(1272, 60, 10, 20) 286 out of  644
+(1244, 60, 10, 20) 287 out of  644
+(1333, 60, 10, 20) 288 out of  644
+(1257, 60, 10, 20) 289 out of  644
+(1355, 60, 10, 20) 290 out of  644
+(1266, 60, 10, 20) 291 out of  644
+(1266, 60, 10, 20) 292 out of  644
+(1176, 60, 10, 20) 293 out of  644
+(1258, 60, 10, 20) 294 out of  644
+(1302, 60, 10, 20) 295 out of  644
+(1198, 60, 10, 20) 296 out of  644
+(1317, 60, 10, 20) 297 out of  644
+(1336, 60, 10, 20) 298 out of  644
+(1296, 60, 10, 20) 299 out of  644
+(1199, 60, 10, 20) 300 out of  644
+(1264, 60, 10, 20) 301 out of  644
+(1270, 60, 10, 20) 302 out of  644
+(1284, 60, 10, 20) 303 out of  644
+(1255, 60, 10, 20) 304 out of  644
+(1259, 60, 10, 20) 305 out of  644
+(1328, 60, 10, 20) 306 out of  644
+(1288, 60, 10, 20) 307 out of  644
+(1273, 60, 10, 20) 308 out of  644
+(1282, 60, 10, 20) 309 out of  644
+(1274, 60, 10, 20) 310 out of  644
+(1295, 60, 10, 20) 311 out of  644
+(1326, 60, 10, 20) 312 out of  644
+(1312, 60, 10, 20) 313 out of  644
+(1269, 60, 10, 20) 314 out of  644
+(1281, 60, 10, 20) 315 out of  644
+(1274, 60, 10, 20) 316 out of  644
+(1250, 60, 10, 20) 317 out of  644
+(1235, 60, 10, 20) 318 out of  644
+(1331, 60, 10, 20) 319 out of  644
+(1294, 60, 10, 20) 320 out of  644
+(1334, 60, 10, 20) 321 out of  644
+(1301, 60, 10, 20) 322 out of  644
+(1294, 60, 10, 20) 323 out of  644
+(1278, 60, 10, 20) 324 out of  644
+(1209, 60, 10, 20) 325 out of  644
+(1337, 60, 10, 20) 326 out of  644
+(1243, 60, 10, 20) 327 out of  644
+(1295, 60, 10, 20) 328 out of  644
+(1306, 60, 10, 20) 329 out of  644
+(1347, 60, 10, 20) 330 out of  644
+(1224, 60, 10, 20) 331 out of  644
+(1216, 60, 10, 20) 332 out of  644
+(1256, 60, 10, 20) 333 out of  644
+(1256, 60, 10, 20) 334 out of  644
+(1393, 60, 10, 20) 335 out of  644
+(1248, 60, 10, 20) 336 out of  644
+(1291, 60, 10, 20) 337 out of  644
+(1336, 60, 10, 20) 338 out of  644
+(1258, 60, 10, 20) 339 out of  644
+(1247, 60, 10, 20) 340 out of  644
+(1359, 60, 10, 20) 341 out of  644
+(1333, 60, 10, 20) 342 out of  644
+(1255, 60, 10, 20) 343 out of  644
+(1320, 60, 10, 20) 344 out of  644
+(1214, 60, 10, 20) 345 out of  644
+(1330, 60, 10, 20) 346 out of  644
+(1299, 60, 10, 20) 347 out of  644
+(1264, 60, 10, 20) 348 out of  644
+(1274, 60, 10, 20) 349 out of  644
+(1231, 60, 10, 20) 350 out of  644
+(1268, 60, 10, 20) 351 out of  644
+(1255, 60, 10, 20) 352 out of  644
+(1299, 60, 10, 20) 353 out of  644
+(1271, 60, 10, 20) 354 out of  644
+(1254, 60, 10, 20) 355 out of  644
+(1258, 60, 10, 20) 356 out of  644
+(1263, 60, 10, 20) 357 out of  644
+(1234, 60, 10, 20) 358 out of  644
+(1230, 60, 10, 20) 359 out of  644
+(1308, 60, 10, 20) 360 out of  644
+(1278, 60, 10, 20) 361 out of  644
+(1282, 60, 10, 20) 362 out of  644
+(1241, 60, 10, 20) 363 out of  644
+(1294, 60, 10, 20) 364 out of  644
+(1315, 60, 10, 20) 365 out of  644
+(1276, 60, 10, 20) 366 out of  644
+(1216, 60, 10, 20) 367 out of  644
+(1259, 60, 10, 20) 368 out of  644
+(1276, 60, 10, 20) 369 out of  644
+(1273, 60, 10, 20) 370 out of  644
+(1285, 60, 10, 20) 371 out of  644
+(1278, 60, 10, 20) 372 out of  644
+(1241, 60, 10, 20) 373 out of  644
+(1300, 60, 10, 20) 374 out of  644
+(1246, 60, 10, 20) 375 out of  644
+(1271, 60, 10, 20) 376 out of  644
+(1215, 60, 10, 20) 377 out of  644
+(1301, 60, 10, 20) 378 out of  644
+(1279, 60, 10, 20) 379 out of  644
+(1188, 60, 10, 20) 380 out of  644
+(1300, 60, 10, 20) 381 out of  644
+(1231, 60, 10, 20) 382 out of  644
+(1242, 60, 10, 20) 383 out of  644
+(1342, 60, 10, 20) 384 out of  644
+(1231, 60, 10, 20) 385 out of  644
+(1189, 60, 10, 20) 386 out of  644
+(1247, 60, 10, 20) 387 out of  644
+(1253, 60, 10, 20) 388 out of  644
+(1232, 60, 10, 20) 389 out of  644
+(1319, 60, 10, 20) 390 out of  644
+(1300, 60, 10, 20) 391 out of  644
+(1241, 60, 10, 20) 392 out of  644
+(1259, 60, 10, 20) 393 out of  644
+(1205, 60, 10, 20) 394 out of  644
+(1286, 60, 10, 20) 395 out of  644
+(1266, 60, 10, 20) 396 out of  644
+(1254, 60, 10, 20) 397 out of  644
+(1228, 60, 10, 20) 398 out of  644
+(1287, 60, 10, 20) 399 out of  644
+(1329, 60, 10, 20) 400 out of  644
+(1262, 60, 10, 20) 401 out of  644
+(1247, 60, 10, 20) 402 out of  644
+(1274, 60, 10, 20) 403 out of  644
+(1296, 60, 10, 20) 404 out of  644
+(1279, 60, 10, 20) 405 out of  644
+(1212, 60, 10, 20) 406 out of  644
+(1309, 60, 10, 20) 407 out of  644
+(1292, 60, 10, 20) 408 out of  644
+(1270, 60, 10, 20) 409 out of  644
+(1241, 60, 10, 20) 410 out of  644
+(1265, 60, 10, 20) 411 out of  644
+(1256, 60, 10, 20) 412 out of  644
+(1237, 60, 10, 20) 413 out of  644
+(1210, 60, 10, 20) 414 out of  644
+(1327, 60, 10, 20) 415 out of  644
+(1224, 60, 10, 20) 416 out of  644
+(1272, 60, 10, 20) 417 out of  644
+(1273, 60, 10, 20) 418 out of  644
+(1260, 60, 10, 20) 419 out of  644
+(1286, 60, 10, 20) 420 out of  644
+(1334, 60, 10, 20) 421 out of  644
+(1276, 60, 10, 20) 422 out of  644
+(1214, 60, 10, 20) 423 out of  644
+(1265, 60, 10, 20) 424 out of  644
+(1229, 60, 10, 20) 425 out of  644
+(1302, 60, 10, 20) 426 out of  644
+(1182, 60, 10, 20) 427 out of  644
+(1232, 60, 10, 20) 428 out of  644
+(1277, 60, 10, 20) 429 out of  644
+(1267, 60, 10, 20) 430 out of  644
+(1256, 60, 10, 20) 431 out of  644
+(1279, 60, 10, 20) 432 out of  644
+(1252, 60, 10, 20) 433 out of  644
+(1239, 60, 10, 20) 434 out of  644
+(1301, 60, 10, 20) 435 out of  644
+(1255, 60, 10, 20) 436 out of  644
+(1268, 60, 10, 20) 437 out of  644
+(1338, 60, 10, 20) 438 out of  644
+(1261, 60, 10, 20) 439 out of  644
+(1230, 60, 10, 20) 440 out of  644
+(1242, 60, 10, 20) 441 out of  644
+(1238, 60, 10, 20) 442 out of  644
+(1301, 60, 10, 20) 443 out of  644
+(1218, 60, 10, 20) 444 out of  644
+(1287, 60, 10, 20) 445 out of  644
+(1324, 60, 10, 20) 446 out of  644
+(1284, 60, 10, 20) 447 out of  644
+(1262, 60, 10, 20) 448 out of  644
+(1368, 60, 10, 20) 449 out of  644
+(1256, 60, 10, 20) 450 out of  644
+(1305, 60, 10, 20) 451 out of  644
+(1266, 60, 10, 20) 452 out of  644
+(1245, 60, 10, 20) 453 out of  644
+(1190, 60, 10, 20) 454 out of  644
+(1309, 60, 10, 20) 455 out of  644
+(1265, 60, 10, 20) 456 out of  644
+(1268, 60, 10, 20) 457 out of  644
+(1279, 60, 10, 20) 458 out of  644
+(1274, 60, 10, 20) 459 out of  644
+(1246, 60, 10, 20) 460 out of  644
+(1322, 60, 10, 20) 461 out of  644
+(1278, 60, 10, 20) 462 out of  644
+(1353, 60, 10, 20) 463 out of  644
+(1257, 60, 10, 20) 464 out of  644
+(1248, 60, 10, 20) 465 out of  644
+(1352, 60, 10, 20) 466 out of  644
+(1248, 60, 10, 20) 467 out of  644
+(1313, 60, 10, 20) 468 out of  644
+(1255, 60, 10, 20) 469 out of  644
+(1294, 60, 10, 20) 470 out of  644
+(1223, 60, 10, 20) 471 out of  644
+(1261, 60, 10, 20) 472 out of  644
+(1263, 60, 10, 20) 473 out of  644
+(1204, 60, 10, 20) 474 out of  644
+(1311, 60, 10, 20) 475 out of  644
+(1286, 60, 10, 20) 476 out of  644
+(1251, 60, 10, 20) 477 out of  644
+(1297, 60, 10, 20) 478 out of  644
+(1323, 60, 10, 20) 479 out of  644
+(1285, 60, 10, 20) 480 out of  644
+(1267, 60, 10, 20) 481 out of  644
+(1234, 60, 10, 20) 482 out of  644
+(1276, 60, 10, 20) 483 out of  644
+(1286, 60, 10, 20) 484 out of  644
+(1266, 60, 10, 20) 485 out of  644
+(1329, 60, 10, 20) 486 out of  644
+(1289, 60, 10, 20) 487 out of  644
+(1276, 60, 10, 20) 488 out of  644
+(1318, 60, 10, 20) 489 out of  644
+(1230, 60, 10, 20) 490 out of  644
+(1234, 60, 10, 20) 491 out of  644
+(1342, 60, 10, 20) 492 out of  644
+(1311, 60, 10, 20) 493 out of  644
+(1365, 60, 10, 20) 494 out of  644
+(1235, 60, 10, 20) 495 out of  644
+(1276, 60, 10, 20) 496 out of  644
+(1311, 60, 10, 20) 497 out of  644
+(1300, 60, 10, 20) 498 out of  644
+(1238, 60, 10, 20) 499 out of  644
+(1339, 60, 10, 20) 500 out of  644
+(1295, 60, 10, 20) 501 out of  644
+(1289, 60, 10, 20) 502 out of  644
+(1232, 60, 10, 20) 503 out of  644
+(1329, 60, 10, 20) 504 out of  644
+(1244, 60, 10, 20) 505 out of  644
+(1320, 60, 10, 20) 506 out of  644
+(1270, 60, 10, 20) 507 out of  644
+(1286, 60, 10, 20) 508 out of  644
+(1254, 60, 10, 20) 509 out of  644
+(1287, 60, 10, 20) 510 out of  644
+(1250, 60, 10, 20) 511 out of  644
+(1212, 60, 10, 20) 512 out of  644
+(1239, 60, 10, 20) 513 out of  644
+(1244, 60, 10, 20) 514 out of  644
+(1246, 60, 10, 20) 515 out of  644
+(1294, 60, 10, 20) 516 out of  644
+(1228, 60, 10, 20) 517 out of  644
+(1269, 60, 10, 20) 518 out of  644
+(1280, 60, 10, 20) 519 out of  644
+(1309, 60, 10, 20) 520 out of  644
+(1328, 60, 10, 20) 521 out of  644
+(1271, 60, 10, 20) 522 out of  644
+(1261, 60, 10, 20) 523 out of  644
+(1268, 60, 10, 20) 524 out of  644
+(1300, 60, 10, 20) 525 out of  644
+(1277, 60, 10, 20) 526 out of  644
+(1322, 60, 10, 20) 527 out of  644
+(1255, 60, 10, 20) 528 out of  644
+(1292, 60, 10, 20) 529 out of  644
+(1277, 60, 10, 20) 530 out of  644
+(1268, 60, 10, 20) 531 out of  644
+(1301, 60, 10, 20) 532 out of  644
+(1299, 60, 10, 20) 533 out of  644
+(1308, 60, 10, 20) 534 out of  644
+(1296, 60, 10, 20) 535 out of  644
+(1248, 60, 10, 20) 536 out of  644
+(1199, 60, 10, 20) 537 out of  644
+(1249, 60, 10, 20) 538 out of  644
+(1310, 60, 10, 20) 539 out of  644
+(1320, 60, 10, 20) 540 out of  644
+(1227, 60, 10, 20) 541 out of  644
+(1281, 60, 10, 20) 542 out of  644
+(1354, 60, 10, 20) 543 out of  644
+(1262, 60, 10, 20) 544 out of  644
+(1204, 60, 10, 20) 545 out of  644
+(1256, 60, 10, 20) 546 out of  644
+(1315, 60, 10, 20) 547 out of  644
+(1239, 60, 10, 20) 548 out of  644
+(1233, 60, 10, 20) 549 out of  644
+(1244, 60, 10, 20) 550 out of  644
+(1257, 60, 10, 20) 551 out of  644
+(1291, 60, 10, 20) 552 out of  644
+(1291, 60, 10, 20) 553 out of  644
+(1319, 60, 10, 20) 554 out of  644
+(1260, 60, 10, 20) 555 out of  644
+(1381, 60, 10, 20) 556 out of  644
+(1247, 60, 10, 20) 557 out of  644
+(1344, 60, 10, 20) 558 out of  644
+(1284, 60, 10, 20) 559 out of  644
+(1258, 60, 10, 20) 560 out of  644
+(1303, 60, 10, 20) 561 out of  644
+(1317, 60, 10, 20) 562 out of  644
+(1221, 60, 10, 20) 563 out of  644
+(1308, 60, 10, 20) 564 out of  644
+(1346, 60, 10, 20) 565 out of  644
+(1352, 60, 10, 20) 566 out of  644
+(1239, 60, 10, 20) 567 out of  644
+(1317, 60, 10, 20) 568 out of  644
+(1250, 60, 10, 20) 569 out of  644
+(1289, 60, 10, 20) 570 out of  644
+(1228, 60, 10, 20) 571 out of  644
+(1264, 60, 10, 20) 572 out of  644
+(1260, 60, 10, 20) 573 out of  644
+(1257, 60, 10, 20) 574 out of  644
+(1279, 60, 10, 20) 575 out of  644
+(1267, 60, 10, 20) 576 out of  644
+(1282, 60, 10, 20) 577 out of  644
+(1254, 60, 10, 20) 578 out of  644
+(1256, 60, 10, 20) 579 out of  644
+(1295, 60, 10, 20) 580 out of  644
+(1322, 60, 10, 20) 581 out of  644
+(1282, 60, 10, 20) 582 out of  644
+(1307, 60, 10, 20) 583 out of  644
+(1294, 60, 10, 20) 584 out of  644
+(1248, 60, 10, 20) 585 out of  644
+(1228, 60, 10, 20) 586 out of  644
+(1257, 60, 10, 20) 587 out of  644
+(1322, 60, 10, 20) 588 out of  644
+(1225, 60, 10, 20) 589 out of  644
+(1312, 60, 10, 20) 590 out of  644
+(1275, 60, 10, 20) 591 out of  644
+(1222, 60, 10, 20) 592 out of  644
+(1228, 60, 10, 20) 593 out of  644
+(1219, 60, 10, 20) 594 out of  644
+(1281, 60, 10, 20) 595 out of  644
+(1300, 60, 10, 20) 596 out of  644
+(1267, 60, 10, 20) 597 out of  644
+(1254, 60, 10, 20) 598 out of  644
+(1279, 60, 10, 20) 599 out of  644
+(1316, 60, 10, 20) 600 out of  644
+(1268, 60, 10, 20) 601 out of  644
+(1274, 60, 10, 20) 602 out of  644
+(1208, 60, 10, 20) 603 out of  644
+(1295, 60, 10, 20) 604 out of  644
+(1273, 60, 10, 20) 605 out of  644
+(1257, 60, 10, 20) 606 out of  644
+(1273, 60, 10, 20) 607 out of  644
+(1310, 60, 10, 20) 608 out of  644
+(1303, 60, 10, 20) 609 out of  644
+(1279, 60, 10, 20) 610 out of  644
+(1253, 60, 10, 20) 611 out of  644
+(1264, 60, 10, 20) 612 out of  644
+(1328, 60, 10, 20) 613 out of  644
+(1224, 60, 10, 20) 614 out of  644
+(1201, 60, 10, 20) 615 out of  644
+(1343, 60, 10, 20) 616 out of  644
+(1309, 60, 10, 20) 617 out of  644
+(1273, 60, 10, 20) 618 out of  644
+(1288, 60, 10, 20) 619 out of  644
+(1323, 60, 10, 20) 620 out of  644
+(1245, 60, 10, 20) 621 out of  644
+(1328, 60, 10, 20) 622 out of  644
+(1282, 60, 10, 20) 623 out of  644
+(1290, 60, 10, 20) 624 out of  644
+(1259, 60, 10, 20) 625 out of  644
+(1237, 60, 10, 20) 626 out of  644
+(1285, 60, 10, 20) 627 out of  644
+(1353, 60, 10, 20) 628 out of  644
+(1266, 60, 10, 20) 629 out of  644
+(1261, 60, 10, 20) 630 out of  644
+(1292, 60, 10, 20) 631 out of  644
+(1291, 60, 10, 20) 632 out of  644
+(1296, 60, 10, 20) 633 out of  644
+(1243, 60, 10, 20) 634 out of  644
+(1254, 60, 10, 20) 635 out of  644
+(1236, 60, 10, 20) 636 out of  644
+(1270, 60, 10, 20) 637 out of  644
+(1258, 60, 10, 20) 638 out of  644
+(1224, 60, 10, 20) 639 out of  644
+(1291, 60, 10, 20) 640 out of  644
+(1309, 60, 10, 20) 641 out of  644
+(1248, 60, 10, 20) 642 out of  644
+(630, 60, 10, 20) 643 out of  644
+Time taken for concatenating temp files 6285.759918928146
+Data shape after read:	x:(737715, 60, 10, 20)	y:(737715,)	wts:(737715,)	info:(737715, 3)
+Data shape after format:	x:(737715, 10, 20, 60, 1)	y:(737715,)
+Time taken in minutes  1155.8303521315256

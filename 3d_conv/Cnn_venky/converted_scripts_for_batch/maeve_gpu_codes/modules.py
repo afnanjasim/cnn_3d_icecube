@@ -96,8 +96,9 @@ def f_train_model(model,inpx,inpy,num_epochs=5):
                     batch_size=64,
                     epochs=num_epochs,
                     verbose=1,
-#                     callbacks = [callbacks.ModelCheckpoint('./rpv_weights.h5')],
-                    callbacks = [callbacks.EarlyStopping(monitor='val_loss', min_delta=0.0001,patience=8, verbose=1), callbacks.ModelCheckpoint('.mdl_weights.h5', save_best_only=True, monitor='val_loss', mode='min') ],
+                    #callbacks = [callbacks.ModelCheckpoint('.mdl_weights.h5', save_best_only=True, monitor='val_loss', mode='min') ],
+                    callbacks = [callbacks.EarlyStopping(monitor='val_loss', min_delta=0,patience=10, verbose=1)],
+                    #callbacks = [callbacks.ModelCheckpoint('.mdl_weights.h5', save_best_only=True, monitor='val_loss', mode='min') ],
                     validation_split=cv_fraction,
                     shuffle=True
                 )
